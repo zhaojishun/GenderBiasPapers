@@ -25,11 +25,19 @@ Must-read Papers on Gender Bias .
 21. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
 22.  
 
-
-
+## 偏见的刻画和测量
+1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
+2. It's A Man's Wikipedia? Assessing Gender Inequality in An Online Encyclopedia. 2015
+3. Social Bias in Elicited Natural Language Inference. 2017
+4. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019
+5. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019
+** Implicit Association Test **
+6. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test. 1998.
+7. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.
+8. Semantics Derived Automatically from Language Corpora Contain Human-like Biases. 2017.
 
 ## COMMENT 
-1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
-2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [地址](https://www.nature.com/articles/d41586-018-05707-8)
+1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
+2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [Dress](https://www.nature.com/articles/d41586-018-05707-8)
 3. 
 4. 
