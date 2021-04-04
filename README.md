@@ -9,18 +9,21 @@ Must-read Papers on Gender Bias .
 5. Is there Gender bias and stereotype in Portuguese Word Embeddings? 2018.[Dress](https://arxiv.org/abs/1810.04528)
 6. Learning Gender-Neutral Word Embeddings.EMNLP.2018.[Dress](https://arxiv.org/abs/1809.01496v1)
 7. Measuring Societal Biases from Text Corpora with Smoothed First-Order Co-occurrence.2018.[Dress](https://arxiv.org/abs/1812.10424)
-8. Gender Bias in Sentiment Analysis.2018.[Dress](https://wlv.openrepository.com/bitstream/handle/2436/620633/GenderBiasInSentimentAnalysisPreprint.pdf?sequence=9&isAllowed=y)
-9. Gender Bias in Contextualized Word Embeddings.2019.[Dress](https://arxiv.org/abs/1904.03310)
-10. Evaluating the Underlying Gender Bias in Contextualized Word Embeddings.2019.[Dress](https://arxiv.org/abs/1904.08783)
-11. Measuring Bias in Contextualized Word Representations.2019.[Dress](https://arxiv.org/abs/1906.07337v1)
-12. Examining the Presence of Gender Bias in Customer Reviews Using Word Embedding. 2019.[Dress](https://arxiv.org/abs/1902.00496v1)
-13. Using Word Embeddings to Examine Gender Bias in Dutch Newspapers, 1950-1990. 2019.[Dress](https://www.aclweb.org/anthology/W19-4712/)
-14. How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages? 2019. [PDF](https://arxiv.org/pdf/1910.14161.pdf)
-15. Quantifying the Semantic Core of Gender Systems.EMNLP 2019 [PDF](https://arxiv.org/pdf/1910.13497.pdf)
-16. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
-17. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
-18. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
-19.  
+8. Measuring and Mitigating Unintended Bias in Text Classification.AAAI.2018
+9. Gender Bias in Sentiment Analysis.2018.[Dress](https://wlv.openrepository.com/bitstream/handle/2436/620633/GenderBiasInSentimentAnalysisPreprint.pdf?sequence=9&isAllowed=y)
+10. Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems.2018.
+11. Good Secretaries, Bad Truck Drivers? Occupational Gender Stereotypes in Sentiment Analysis.2019.[Dress](https://arxiv.org/abs/1906.10256v2)
+12. Gender Bias in Contextualized Word Embeddings.2019.[Dress](https://arxiv.org/abs/1904.03310)
+13. Evaluating the Underlying Gender Bias in Contextualized Word Embeddings.2019.[Dress](https://arxiv.org/abs/1904.08783)
+14. Measuring Bias in Contextualized Word Representations.2019.[Dress](https://arxiv.org/abs/1906.07337v1)
+15. Examining the Presence of Gender Bias in Customer Reviews Using Word Embedding. 2019.[Dress](https://arxiv.org/abs/1902.00496v1)
+16. Using Word Embeddings to Examine Gender Bias in Dutch Newspapers, 1950-1990. 2019.[Dress](https://www.aclweb.org/anthology/W19-4712/)
+17. How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages? 2019. [PDF](https://arxiv.org/pdf/1910.14161.pdf)
+18. Quantifying the Semantic Core of Gender Systems.EMNLP 2019 [PDF](https://arxiv.org/pdf/1910.13497.pdf)
+19. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
+20. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
+21. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
+22.  
 
 
 
