@@ -4,6 +4,9 @@ Must-read Papers on Gender Bias .
 ## 偏见分析与消除
 1. Zhao J, Wang T, Yatskar M, et al. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints[C]// Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing. Copenhagen: 2017 Association for Computational Linguistics, 2017. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. Gonen H, Kementchedjhieva Y, Goldberg Y. How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages?[C]. Proceedings of the 23rd Conference on Computational Natural Language Learning, p463-471, 2019. [PDF](https://arxiv.org/pdf/1910.14161.pdf)
+3. Quantifying the Semantic Core of Gender Systems.EMNLP 2019 [PDF](https://arxiv.org/pdf/1910.13497.pdf)
+4. 
+
 
 
 ## COMMENT 
