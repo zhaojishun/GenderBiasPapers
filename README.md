@@ -12,5 +12,5 @@ Must-read Papers on Gender Bias .
 
 ## COMMENT 
 1. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018 [地址](https://www.nature.com/articles/d41586-018-05707-8)
-2. [90].	Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. <https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470>
+2. [90].	Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 3. 
