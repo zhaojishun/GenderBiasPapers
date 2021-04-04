@@ -47,7 +47,7 @@ Must-read Papers on Gender Bias .
 19. Toward Gender-inclusive Coreference Resolution.2019
 
 ## 偏见消除
-![image](https://user-images.githubusercontent.com/46446628/113506580-41f32500-9578-11eb-99a6-1bb3923a75fa.png)
+![image](https://user-images.githubusercontent.com/46446628/113506610-6222e400-9578-11eb-9267-1a54fde402be.png)
 
 1. 
 ## COMMENT 
