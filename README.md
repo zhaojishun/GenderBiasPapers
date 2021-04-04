@@ -1,7 +1,7 @@
 # Gender Bias Papers
 Must-read Papers on Gender Bias .
 
-## 偏见分析与消除
+## 偏见分析
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
 2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints 2017. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
 3. Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes.2018.[Dress](https://arxiv.org/abs/1711.08412v1).[Code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
