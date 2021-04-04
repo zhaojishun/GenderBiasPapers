@@ -31,11 +31,20 @@ Must-read Papers on Gender Bias .
 3. Social Bias in Elicited Natural Language Inference. 2017
 4. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019
 5. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019
- 
- **Implicit Association Test**
 6. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test. 1998.
 7. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.
 8. Semantics Derived Automatically from Language Corpora Contain Human-like Biases. 2017.
+9. Assessing Social and Intersectional Biases in Contextualized Word Representations. NIPS.2019
+10. Measuring Gender Bias in Word Embeddings across Domains and Discovering New Gender Bias Word Categories.2019
+11. On Measuring Social Biases in Sentence Encoders.2019
+12. Black Is to Criminal as Caucasian Is to Police: Detecting and Removing Multiclass Bias in Word Embeddings.2019.
+13. Lipstick on A Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings but Do Not Remove Them.2019
+14. Gender Bias in Neural Natural Language Processing.2018[Dress](https://arxiv.org/abs/1807.11714)
+15. Reducing Gender Bias in Abusive Language Detection.2018.
+16. Gender Bias in Coreference Resolution.2018
+17. Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns.2018
+18. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020
+19. Toward Gender-inclusive Coreference Resolution.2019
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
