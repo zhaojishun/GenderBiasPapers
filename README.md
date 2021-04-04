@@ -1,5 +1,7 @@
 # Gender Bias Papers
 Must-read Papers on Gender Bias .
+![image](https://user-images.githubusercontent.com/46446628/113510339-f6974180-958c-11eb-98ad-b683225fec63.png)
+
 
 ## 偏见分析
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
@@ -46,7 +48,6 @@ Must-read Papers on Gender Bias .
 19. Toward Gender-inclusive Coreference Resolution.2019
 
 ## 偏见消除
-![image  width=60%](https://user-images.githubusercontent.com/46446628/113506660-bb8b1300-9578-11eb-8e25-66f1c56bcfd5.png)
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[Dress](https://arxiv.org/abs/1906.08976v1)
 2. Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods.NAACL.2018[Dress](https://arxiv.org/abs/1804.06876v1)
 3. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
