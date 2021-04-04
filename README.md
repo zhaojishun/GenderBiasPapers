@@ -23,7 +23,6 @@ Must-read Papers on Gender Bias .
 19. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
 20. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
 21. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
-22.  
 
 ## 偏见的刻画和测量
 1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
@@ -48,10 +47,44 @@ Must-read Papers on Gender Bias .
 
 ## 偏见消除
 ![image  width=60%](https://user-images.githubusercontent.com/46446628/113506660-bb8b1300-9578-11eb-8e25-66f1c56bcfd5.png)
+1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[Dress](https://arxiv.org/abs/1906.08976v1)
+2. Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods.NAACL.2018[Dress](https://arxiv.org/abs/1804.06876v1)
+3. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
+4. Gender Bias in Contextualized Word Embeddings.2019.[Dress](https://arxiv.org/abs/1904.03310)
+5. It's All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Substitution.2019.[Dress](https://arxiv.org/abs/1909.00871v3)
+6. Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology.ACL.2019.[Dress](https://arxiv.org/abs/1906.04571)
+7. Analyze, Detect and Remove Gender Stereotyping from Bollywood Movies.2018.
+8. Getting Gender Right in Neural Machine Translation.2019.[Dress](https://arxiv.org/abs/1909.05088)
+9. Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem.ACL.2020.[Dress](https://arxiv.org/abs/2004.04498)
+10. Equalizing Gender Bias in Neural Machine Translation with Word Embeddings Techniques.2019.[Dress](https://arxiv.org/abs/1901.03116)
+11. Filling Gender & Number Gaps in Neural Machine Translation with Black-box Context Injection.2019.[Dress](https://arxiv.org/abs/1903.03467)
+12. Large Scale Crowdsourcing and Characterization of Twitter Abusive Behavior.2018.[Dress](https://arxiv.org/abs/1802.00393)
+13. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.
+14. Examining Gender Bias in Languages with Grammatical Gender.EMNLP.2019.[Dress](https://arxiv.org/abs/1909.02224)
+15. Gender-preserving Debiasing for Pre-trained Word Embeddings.2019.[Dress](https://arxiv.org/abs/1906.00742)
+16. Conceptor Debiasing of Word Representations Evaluated on WEAT.2019.[Dress](https://arxiv.org/abs/1906.05993)
+17. The Role of Protected Class Word Lists in Bias Identification of Contextualized Word Representations.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3808/)
+18. A Causal Inference Method for Reducing Gender Bias in Word Embedding Relations.AAAI. 2020.[Dress](https://arxiv.org/abs/1911.10787)
+19. Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation.ACL.2020.[Dress](https://arxiv.org/abs/2005.00965)
+20. Learning Gender-Neutral Word Embeddings.EMNLP.2018.[Dress](https://arxiv.org/abs/1809.01496v1)
+21. Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function.2019.[Dress](https://arxiv.org/abs/1905.12801)
+22. Mitigating Unwanted Biases with Adversarial Learning.2018.[Dress](https://arxiv.org/abs/1801.07593)
+23. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[Dress](https://arxiv.org/abs/1911.03842)
+24. Resolving Gendered Ambiguous Pronouns with BERT.2019.[Dress](https://arxiv.org/abs/1906.01161)
+25. Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution.2019.[Dress](https://arxiv.org/abs/1905.08868)
+26. On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution.2019.[Dress](https://www.aclweb.org/anthology/W19-3816/)
+27. Transfer Learning from Pre-trained BERT for Pronoun Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3812/)
+28. Gendered Pronoun Resolution Using BERT and an Extractive Question Answering Formulation.2019.[Dress](https://arxiv.org/abs/1906.03695)
+29. 完形填空：BERT Masked Language Modeling for Co-reference Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3811/)
+30. MSnet:A BERT-based Network for Gendered Pronoun Resolution.2019.[Dress](https://arxiv.org/abs/1908.00308)
+31. Fill the GAP: Exploiting BERT for Pronoun Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3815/)
+32. Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge.2019.[Dress](https://arxiv.org/abs/1905.01780)
+33. Gendered Ambiguous Pronouns Shared Task: Boosting Model Confidence by Evidence Pooling.2019.[Dress](https://arxiv.org/abs/1906.00839)
+34. Generating Clues for Gender based Occupation De-biasing in Text.2019.[Dress](https://arxiv.org/abs/1804.03839)
+35. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[Dress](https://arxiv.org/abs/1911.11025)
 
-1. 
+
+
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [Dress](https://www.nature.com/articles/d41586-018-05707-8)
-3. 
-4. 
