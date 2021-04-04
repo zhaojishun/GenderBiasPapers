@@ -31,7 +31,8 @@ Must-read Papers on Gender Bias .
 3. Social Bias in Elicited Natural Language Inference. 2017
 4. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019
 5. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019
- \n**Implicit Association Test**
+ 
+ **Implicit Association Test**
 6. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test. 1998.
 7. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.
 8. Semantics Derived Automatically from Language Corpora Contain Human-like Biases. 2017.
