@@ -46,6 +46,10 @@ Must-read Papers on Gender Bias .
 18. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020
 19. Toward Gender-inclusive Coreference Resolution.2019
 
+## 偏见消除
+![image](https://user-images.githubusercontent.com/46446628/113506580-41f32500-9578-11eb-99a6-1bb3923a75fa.png)
+
+1. 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [Dress](https://www.nature.com/articles/d41586-018-05707-8)
