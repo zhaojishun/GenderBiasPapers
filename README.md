@@ -1,7 +1,7 @@
 # Gender Bias Papers
 Must-read Papers on Gender Bias .
-![image width="200" height="300"](https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg)
 
+ <img src="https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg" width = "300" height = "200" alt="" align=center />
 
 ## 偏见分析
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
