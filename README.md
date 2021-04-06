@@ -1,6 +1,6 @@
 # Gender Bias Papers
 Must-read Papers on Gender Bias .
-![image w=100*100](https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg w=300*300)
+![image w=100*100](https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg)
 
 
 ## 偏见分析
