@@ -1,5 +1,5 @@
 # Gender Bias Papers
-Must-read Papers on Gender Bias.
+Must-read Papers on Gender Bias!
 
  <img src="https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg" width = "600" height = "400" alt="" align=center />
 
