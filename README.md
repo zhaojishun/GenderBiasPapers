@@ -90,3 +90,6 @@ Must-read Papers on Gender Bias!
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [Dress](https://www.nature.com/articles/d41586-018-05707-8)
+
+## 心理学
+[偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
