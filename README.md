@@ -87,6 +87,13 @@ Must-read Papers on Gender Bias!
 
 ## ARXIV最新相关论文
 1.Back to Square One：Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema.2021.[Dress](https://arxiv.org/abs/2104.08161)
+2.Detoxifying Language Models Risks Marginalizing Minority Voices.2021.[Dress](https://arxiv.org/abs/2104.06390)
+3.First the Worst：Finding Better Gender Translations during Beam Search.2021.[Dress](https://arxiv.org/abs/2104.07429)
+4.Gender Bias in Machine Translation.2021.[Dress](https://arxiv.org/abs/2104.06001)
+5.Improving Gender Translation Accuracy with Filtered Self-training.2021.[Dress](https://arxiv.org/abs/2104.07695)
+6.Investigating Failures of Automatic Translation in the Case of Unambiguous Gender.2021.2021.[Dress](https://arxiv.org/abs/2104.07838)
+7.Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models.2021.[Dress](https://arxiv.org/abs/2104.07505)
+8.Unmasking the Mask - Evaluating Social Biases in Masked Language Models.2021. [Dress](https://arxiv.org/abs/2104.07496)
 
 
 ## COMMENT 
