@@ -85,6 +85,8 @@ Must-read Papers on Gender Bias!
 35. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[Dress](https://arxiv.org/abs/1911.11025)
 36. Mitigating Media Bias through Neutral Article Generation.2021.[Dress](https://arxiv.org/pdf/2104.00336.pdf)
 
+## ARXIV最新相关论文
+1.Back to Square One：Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema.2021.[Dress](https://arxiv.org/abs/2104.08161)
 
 
 ## COMMENT 
