@@ -22,10 +22,10 @@ Must-read Papers on Gender Bias!
 16. Using Word Embeddings to Examine Gender Bias in Dutch Newspapers, 1950-1990. 2019.[Dress](https://www.aclweb.org/anthology/W19-4712/)
 17. How Does Grammatical Gender Affect Noun Representations in Gender-Marking Languages? 2019. [PDF](https://arxiv.org/pdf/1910.14161.pdf)
 18. Quantifying the Semantic Core of Gender Systems.EMNLP 2019 [PDF](https://arxiv.org/pdf/1910.13497.pdf)
-19. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
-20. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
-21. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
-22. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.[Dress](https://www.aclweb.org/anthology/D19-1176/)
+19. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[Dress](https://www.aclweb.org/anthology/D19-1176/)
+20. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
+21. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
+22. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
 
 ## 偏见的刻画和测量
 1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
