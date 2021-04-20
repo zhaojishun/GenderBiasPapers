@@ -94,6 +94,7 @@ Must-read Papers on Gender Bias!
 6. Investigating Failures of Automatic Translation in the Case of Unambiguous Gender.2021.2021.[Dress](https://arxiv.org/abs/2104.07838)
 7. Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models.2021.[Dress](https://arxiv.org/abs/2104.07505)
 8. Unmasking the Mask - Evaluating Social Biases in Masked Language Models.2021. [Dress](https://arxiv.org/abs/2104.07496)
+9. Revealing Persona Biases in Dialogue Systems.2021.[Dress](https://arxiv.org/abs/2104.08728)
 
 
 ## COMMENT 
