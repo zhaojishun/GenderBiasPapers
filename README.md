@@ -25,6 +25,7 @@ Must-read Papers on Gender Bias!
 19. Relating Word Embedding Gender Biases to Gender Gaps: A Cross-Cultural Analysis.ACL.2019.[Dress](https://www.aclweb.org/anthology/W19-3803/)
 20. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
 21. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[Dress](https://arxiv.org/abs/2002.07786)
+22. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.[Dress](https://www.aclweb.org/anthology/D19-1176/)
 
 ## 偏见的刻画和测量
 1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
