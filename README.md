@@ -96,6 +96,7 @@ Must-read Papers on Gender Bias!
 7. Quantifying Gender Bias Towards Politicians in Cross-Lingual Language Models.2021.[Dress](https://arxiv.org/abs/2104.07505)
 8. Unmasking the Mask - Evaluating Social Biases in Masked Language Models.2021. [Dress](https://arxiv.org/abs/2104.07496)
 9. Revealing Persona Biases in Dialogue Systems.2021.[Dress](https://arxiv.org/abs/2104.08728)
+10. Hidden Biases in Unreliable News Detection Datasets.2021.[Dress](https://arxiv.org/abs/2104.10130)
 
 
 ## COMMENT 
