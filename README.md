@@ -97,7 +97,8 @@ Must-read Papers on Gender Bias!
 8. Unmasking the Mask - Evaluating Social Biases in Masked Language Models.2021. [Dress](https://arxiv.org/abs/2104.07496)
 9. Revealing Persona Biases in Dialogue Systems.2021.[Dress](https://arxiv.org/abs/2104.08728)
 10. Hidden Biases in Unreliable News Detection Datasets.2021.[Dress](https://arxiv.org/abs/2104.10130)
-
+11. Identifying Offensive Expressions of Opinion in Context.2021.[Dress](https://arxiv.org/abs/2104.12227)
+12. Contextual Lexicon-Based Approach for Hate Speech and Offensive Language Detection.2021.[Dress](https://arxiv.org/abs/2104.12265)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [Dress](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
