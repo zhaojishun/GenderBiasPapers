@@ -48,7 +48,7 @@ Must-read Papers on Gender Bias!
 18. 数据集[GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
 19. Toward Gender-inclusive Coreference Resolution.2019
 
-## 偏见消除
+## 模型去偏见
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[Dress](https://arxiv.org/abs/1906.08976v1)
 2. Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods.NAACL.2018[Dress](https://arxiv.org/abs/1804.06876v1)
 3. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [Dress](https://www.aclweb.org/anthology/2020.acl-main.265/)
