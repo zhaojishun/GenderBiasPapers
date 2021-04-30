@@ -77,7 +77,7 @@ Must-read Papers on Gender Bias!
 26. On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution.2019.[Dress](https://www.aclweb.org/anthology/W19-3816/)
 27. Transfer Learning from Pre-trained BERT for Pronoun Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3812/)
 28. Gendered Pronoun Resolution Using BERT and an Extractive Question Answering Formulation.2019.[Dress](https://arxiv.org/abs/1906.03695)
-29. 完形填空：BERT Masked Language Modeling for Co-reference Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3811/)
+29. BERT Masked Language Modeling for Co-reference Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3811/)
 30. MSnet:A BERT-based Network for Gendered Pronoun Resolution.2019.[Dress](https://arxiv.org/abs/1908.00308)
 31. Fill the GAP: Exploiting BERT for Pronoun Resolution.2019.[Dress](https://www.aclweb.org/anthology/W19-3815/)
 32. Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge.2019.[Dress](https://arxiv.org/abs/1905.01780)
