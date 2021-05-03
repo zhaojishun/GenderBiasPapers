@@ -5,7 +5,7 @@ Must-read Papers on Gender Bias!
 
 ## 偏见分析
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
-2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints 2017. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
+2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 最佳论文. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
 3. Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes.2018.[Dress](https://arxiv.org/abs/1711.08412v1).[Code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
 4. Understanding the Origins of Bias in Word Embeddings.2018.[Dress](https://arxiv.org/abs/1810.03611)
 5. Is there Gender bias and stereotype in Portuguese Word Embeddings? 2018.[Dress](https://arxiv.org/abs/1810.04528)
@@ -86,7 +86,7 @@ Must-read Papers on Gender Bias!
 34. Generating Clues for Gender based Occupation De-biasing in Text.2019.[Dress](https://arxiv.org/abs/1804.03839)
 35. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[Dress](https://arxiv.org/abs/1911.11025)
 36. Mitigating Media Bias through Neutral Article Generation.2021.[Dress](https://arxiv.org/pdf/2104.00336.pdf)
-37. Mitigating Political Bias in Language Models Through Reinforced Calibration.AAAI 2021最佳论文.[Dress](https://www.aaai.org/AAAI21Papers/AISI-8076.LiuR.pdf)
+37. Mitigating Political Bias in Language Models Through Reinforced Calibration.AAAI 2021最佳论文.[Dress](https://arxiv.org/abs/2104.14795)
 
 
 ## 文本去偏见
