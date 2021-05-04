@@ -3,6 +3,11 @@ Must-read Papers on Gender Bias!
 
  <img src="https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg" width = "600" height = "400" alt="" align=center />
 
+## 综述性文章
+1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019[Dress](https://arxiv.org/abs/1906.08976v1)
+2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[Dress](https://arxiv.org/abs/1912.11078)
+
+
 ## 偏见分析
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
 2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 最佳论文. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
@@ -32,7 +37,7 @@ Must-read Papers on Gender Bias!
 2. It's A Man's Wikipedia? Assessing Gender Inequality in An Online Encyclopedia. 2015
 3. Social Bias in Elicited Natural Language Inference. 2017
 4. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019
-5. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019[Dress](https://arxiv.org/abs/1906.08976v1)
+5. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[Dress](https://arxiv.org/abs/2004.09456v1)
 6. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test. 1998.
 7. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.
 8. Semantics Derived Automatically from Language Corpora Contain Human-like Biases. 2017.
@@ -47,7 +52,6 @@ Must-read Papers on Gender Bias!
 17. [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://watermark.silverchair.com/tacl_a_00240.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqkwggKlBgkqhkiG9w0BBwagggKWMIICkgIBADCCAosGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPE7Kg3Ht5MYve550AgEQgIICXP0XeqeYbNwTfeu-j1c7Q84pHmZAqEziDs0r7WXaeGBx5LZkRmuTp5wWdWdxFj1tqwjN3l74QyTiz7PiN066qi2gOOvAqATNT07KTu5y-R-2SPSD_ExZBGdkKDnkyGm3zIXwJ7zx7FC78Ud5b-2c5LdYNC7dyBd_4Te-ca3hwUzilZqAezF-IwBTrPTt5to0M-B10aAfHCjgxQRxui_cTtS20pDtnQEor6G9vhZwF9ckwVb47CYSqt4qoL1jDuBMTRuRiKBnr7Qp2pI6YLfRz7gtaB6plzaU_3i6tWXcO4HHPx7K3o0JbJAREUSQ3R9PAPyuUCihdQ6LtxHKRL8QEbZ5rsjSqa4_KgFDgsF7R1gycfsS1g0opxrLXQKpLrZ4ZrQTODPubSewo1Bl0jw_Yy9kKTTYCrrboEQZpwR1f7wThslo5PrykUlIwf-usJ_VP2z1ysV7wZWKQ7jYt7whsj1RNBfnn5JmwGZIOeGSvybhrfipV3qQ1LkiN1vn3XytCY9kYgohgcPyQuZWa4kAVKN5_Un32s3Ijc-7pY8y4MlA-HRfw4IZkpNpKQI2PMGThZZ2RWjJDW7z1mWvKc3-DLH_pRs56OwVTMUEYh5DoCjl57UxLgK9fhVgQGGhlpzQflDCkM-381s_j0KJV-R2aVucdagpOBNlKPriqdH3SCvvw60TEtNH9uALDxpd8AONrOXvOkW3zQvgbni-96SzWcGr6lEfVFo5g5wf8pDnMhYNVfmGEHJ476lMFdwdzaolMJ360aAGMx2s96rDmEl1EQxsSObYhfDFx1H00fo).2018.
 18. 数据集[GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
 19. Toward Gender-inclusive Coreference Resolution.2019
-20. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[Dress](https://arxiv.org/abs/2004.09456v1)
 
 ## 模型去偏见
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[Dress](https://arxiv.org/abs/1906.08976v1)
