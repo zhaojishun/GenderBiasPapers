@@ -98,7 +98,6 @@ Must-read Papers on Gender Bias!
 2. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
 3. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf).
 4. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
-5. 
 
 
 ## ARXIV最新相关论文
@@ -114,6 +113,7 @@ Must-read Papers on Gender Bias!
 10. Hidden Biases in Unreliable News Detection Datasets.2021.[PDF](https://arxiv.org/abs/2104.10130)
 11. Identifying Offensive Expressions of Opinion in Context.2021.[PDF](https://arxiv.org/abs/2104.12227)
 12. Contextual Lexicon-Based Approach for Hate Speech and Offensive Language Detection.2021.[PDF](https://arxiv.org/abs/2104.12265)
+13. Impact of Gender Debiased Word Embeddings in Language Modeling.2021.[Dress](https://arxiv.org/abs/2105.00908)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
@@ -122,4 +122,3 @@ Must-read Papers on Gender Bias!
 ## 心理学
 1. [偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
 2. [Implicit Bias: What It Means and How It Affects Behavior](https://www.thoughtco.com/understanding-implicit-bias-4165634).
-3. 
