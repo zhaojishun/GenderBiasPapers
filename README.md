@@ -97,6 +97,8 @@ Must-read Papers on Gender Bias!
 1. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 2. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
 3. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf).
+4. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
+5. 
 
 
 ## ARXIV最新相关论文
