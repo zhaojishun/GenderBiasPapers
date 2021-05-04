@@ -94,6 +94,9 @@ Must-read Papers on Gender Bias!
 
 
 ## 文本去偏见
+1. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
+2. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
+
 
 ## ARXIV最新相关论文
 1. Back to Square One：Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema.2021.[PDF](https://arxiv.org/abs/2104.08161)
