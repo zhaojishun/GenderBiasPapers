@@ -120,4 +120,6 @@ Must-read Papers on Gender Bias!
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [PDF](https://www.nature.com/articles/d41586-018-05707-8)
 
 ## 心理学
-[偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
+1. [偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
+2. [Implicit Bias: What It Means and How It Affects Behavior](https://www.thoughtco.com/understanding-implicit-bias-4165634).
+3. 
