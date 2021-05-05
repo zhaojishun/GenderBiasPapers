@@ -122,3 +122,6 @@ Must-read Papers on Gender Bias!
 ## 心理学
 1. [偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
 2. [Implicit Bias: What It Means and How It Affects Behavior](https://www.thoughtco.com/understanding-implicit-bias-4165634).
+
+## 相关文献
+1. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.[PDF](https://jmlr.org/papers/v21/20-074.html)
