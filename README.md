@@ -91,6 +91,8 @@ Must-read Papers on Gender Bias!
 35. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[PDF](https://arxiv.org/abs/1911.11025)
 36. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.AAAI 2021最佳论文.[PDF](https://arxiv.org/abs/2104.14795)
+38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
+
 
 
 ## 文本去偏见
