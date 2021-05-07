@@ -116,6 +116,7 @@ Must-read Papers on Gender Bias!
 11. Identifying Offensive Expressions of Opinion in Context.2021.[PDF](https://arxiv.org/abs/2104.12227)
 12. Contextual Lexicon-Based Approach for Hate Speech and Offensive Language Detection.2021.[PDF](https://arxiv.org/abs/2104.12265)
 13. Impact of Gender Debiased Word Embeddings in Language Modeling.2021.[Dress](https://arxiv.org/abs/2105.00908)
+14. The Authors Matter: Understanding and Mitigating Implicit Bias in Deep Text Classification.2021.[Dress](https://arxiv.org/abs/2105.02778)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
