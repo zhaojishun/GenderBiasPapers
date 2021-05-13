@@ -104,6 +104,7 @@ Must-read Papers on Gender Bias!
 3. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf).
 4. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
 5. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
+6. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.[PDF](https://arxiv.org/abs/1911.03842)
 
 
 
