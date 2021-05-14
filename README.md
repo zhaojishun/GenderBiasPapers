@@ -108,6 +108,7 @@ Must-read Papers on Gender Bias!
 4. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
 5. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
 6. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.[PDF](https://arxiv.org/abs/1911.03842)
+7. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
 
 
 
