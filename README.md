@@ -111,6 +111,7 @@ Must-read Papers on Gender Bias!
 7. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
 8. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
 9. Connotation Frames of Power and Agency in Modern Films.2017.[PDF](https://www.aclweb.org/anthology/D17-1247/)
+10. Style Transfer Through Back-Translation.2018.[PDF](https://www.aclweb.org/anthology/P18-1080/)
 
 
 
