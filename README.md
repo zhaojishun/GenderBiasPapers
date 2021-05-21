@@ -81,7 +81,6 @@ Must-read Papers on Gender Bias!
 20. Learning Gender-Neutral Word Embeddings.EMNLP.2018.[PDF](https://arxiv.org/abs/1809.01496v1)
 21. Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function.2019.[PDF](https://arxiv.org/abs/1905.12801)
 22. Mitigating Unwanted Biases with Adversarial Learning.2018.[PDF](https://arxiv.org/abs/1801.07593)
-23. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
 24. Resolving Gendered Ambiguous Pronouns with BERT.2019.[PDF](https://arxiv.org/abs/1906.01161)
 25. Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution.2019.[PDF](https://arxiv.org/abs/1905.08868)
 26. On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution.2019.[PDF](https://www.aclweb.org/anthology/W19-3816/)
@@ -114,6 +113,8 @@ Must-read Papers on Gender Bias!
 10. Style Transfer Through Back-Translation.2018.[PDF](https://www.aclweb.org/anthology/P18-1080/)
 11. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
 12. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
+13. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
+
 
 
 
