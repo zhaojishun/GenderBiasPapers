@@ -113,6 +113,7 @@ Must-read Papers on Gender Bias!
 9. Connotation Frames of Power and Agency in Modern Films.2017.[PDF](https://www.aclweb.org/anthology/D17-1247/)
 10. Style Transfer Through Back-Translation.2018.[PDF](https://www.aclweb.org/anthology/P18-1080/)
 11. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
+12. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
 
 
 
