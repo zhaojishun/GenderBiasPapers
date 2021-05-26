@@ -137,6 +137,8 @@ Must-read Papers on Gender Bias!
 16. Evaluating Gender Bias in Natural Language Inference.2021.[PDF](https://arxiv.org/abs/2105.05541)
 17. Multilingual Offensive Language Identification for Low-resource Languages.2021.[PDF](https://arxiv.org/abs/2105.05996)
 18. Black or White but Never Neutral: How Readers Perceive Identity from Yellow or Skin-toned Emoji.2021.[PDF](https://arxiv.org/abs/2105.05887)
+19. The Incel Lexicon: Deciphering the Emergent Cryptolect of a Global Misogynistic Community.2021.[PDF](https://arxiv.org/abs/2105.12006)
+20.  MBIC - A Media Bias Annotation Dataset Including Annotator Characteristics.2021.[PDF](https://arxiv.org/abs/2105.11910)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
