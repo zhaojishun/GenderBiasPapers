@@ -144,6 +144,7 @@ Must-read Papers on Gender Bias!
 23.  LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering.2021.[PDF](https://arxiv.org/abs/2105.14300)
 24.  Gender Bias Amplification During Speed-Quality Optimization in Neural  Machine Translation.2021.[PDF](https://arxiv.org/abs/2106.00169)
 25.  Gender Bias Hidden Behind Chinese Word Embeddings: The Case of Chinese  Adjectives.2021.[PDF](https://arxiv.org/abs/2106.00181)
+26.  John Praised Mary Because He? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs.2021.[PDF](https://arxiv.org/abs/2106.01060)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
