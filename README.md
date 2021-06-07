@@ -146,6 +146,10 @@ Must-read Papers on Gender Bias!
 25.  Gender Bias Hidden Behind Chinese Word Embeddings: The Case of Chinese  Adjectives.2021.[PDF](https://arxiv.org/abs/2106.00181)
 26.  John Praised Mary Because He? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs.2021.[PDF](https://arxiv.org/abs/2106.01060)
 27.  Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia.2021.[PDF](https://arxiv.org/abs/2106.01601)
+28.  Understanding and Countering Stereotypes: A Computational Approach to  the Stereotype Content Model.2021.[PDF](https://arxiv.org/abs/2106.02596)
+29.  Towards Equal Gender Representation in the Annotations of Toxic Language  Detection.2021.[PDF](https://arxiv.org/abs/2106.02183)
+30.  A Diachronic Evaluation of Gender Asymmetry in Euphemism.2021.[PDF](https://arxiv.org/abs/2106.02083)
+31.  LGBTQ-AI? Exploring Expressions of Gender and Sexual Orientation in Chatbots.2021.[PDF](https://arxiv.org/abs/2106.02076)
 
 ## COMMENT 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
