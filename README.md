@@ -10,7 +10,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Contents
 
-1. [Volume](## Volume)
+1. [Volume](#Volume)
 2. [Review article](## Review article)
 3. [Bias analysis](# Bias analysis)
 4. [Bias measurement](# Bias measurement)
