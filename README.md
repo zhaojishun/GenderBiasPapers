@@ -11,8 +11,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## Contents
 
 1. [Volume](#Volume)
-2. [Review article](#Review article)
-3. [Bias analysis](#Bias analysis)
+2. [Review article](#Reviewarticle)
+3. [Bias analysis](#Biasanalysis)
 4. [Bias measurement](#Bias measurement)
 5. [Model de-bias](#Model de-bias)
 6. [Text de-bias](#Text de-bias)
