@@ -1,14 +1,41 @@
-# Gender Bias Papers 偏见相关论文
-Must-read Papers on Gender Bias!
+# Gender Bias Papers
+
+>  Contributed by [Jishun Zhao](https://github.com/DgCtRbt) and [Shucheng Zhu](https://github.com/zhushucheng).
+
+## Introduction
+
+In this repo, we list some related work on gender bias. Corrections and suggestions are welcomed. 
 
  <img src="https://www.hh-law.com/wp-content/uploads/sites/1300396/2019/11/implicitbiasimage.jpg" width = "600" height = "400" alt="" align=center />
 
-## 综述性文章
+## Contents
+
+1. [Volume](# Volume)
+2. [Review article](##  Review article)
+3. [Bias analysis](# Bias analysis)
+4. [Bias measurement](# Bias measurement)
+5. [Model de-bias](# Model de-bias)
+6. [Text de-bias](# Text de-bias)
+7. [Data set](# Data set)
+8. [ArXiv's latest related papers](# ArXiv's latest related papers)
+9. [COMMENT](# COMMENT )
+10. [Psychology](# Psychology)
+11. [Relevant literature](# Relevant literature)
+
+## Volume
+
+1. [Proceedings of the First Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-38.pdf)
+2. [Proceedings of the Second Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.gebnlp-1/)
+3. [3rd Workshop on Gender Bias in Natural Language Processing](https://genderbiasnlp.talp.cat/)
+
+## Review article
+
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019[PDF](https://arxiv.org/abs/1906.08976v1)
 2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
 
 
-## 偏见分析
+## Bias analysis
+
 1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
 2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 最佳论文. [PDF](https://arxiv.org/pdf/1707.09457.pdf)
 3. Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes.2018.[PDF](https://arxiv.org/abs/1711.08412v1).[Code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
@@ -34,7 +61,8 @@ Must-read Papers on Gender Bias!
 23. Analyzing Gender Bias within Narrative Tropes.2020.[PDF](https://arxiv.org/pdf/2011.00092.pdf)
 
 
-## 偏见的刻画和测量
+## Bias measurement
+
 1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
 2. It's A Man's Wikipedia? Assessing Gender Inequality in An Online Encyclopedia. 2015
 3. Social Bias in Elicited Natural Language Inference. 2017
@@ -52,13 +80,10 @@ Must-read Papers on Gender Bias!
 15. Reducing Gender Bias in Abusive Language Detection.2018.
 16. Gender Bias in Coreference Resolution.2018
 17. [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://watermark.silverchair.com/tacl_a_00240.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqkwggKlBgkqhkiG9w0BBwagggKWMIICkgIBADCCAosGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPE7Kg3Ht5MYve550AgEQgIICXP0XeqeYbNwTfeu-j1c7Q84pHmZAqEziDs0r7WXaeGBx5LZkRmuTp5wWdWdxFj1tqwjN3l74QyTiz7PiN066qi2gOOvAqATNT07KTu5y-R-2SPSD_ExZBGdkKDnkyGm3zIXwJ7zx7FC78Ud5b-2c5LdYNC7dyBd_4Te-ca3hwUzilZqAezF-IwBTrPTt5to0M-B10aAfHCjgxQRxui_cTtS20pDtnQEor6G9vhZwF9ckwVb47CYSqt4qoL1jDuBMTRuRiKBnr7Qp2pI6YLfRz7gtaB6plzaU_3i6tWXcO4HHPx7K3o0JbJAREUSQ3R9PAPyuUCihdQ6LtxHKRL8QEbZ5rsjSqa4_KgFDgsF7R1gycfsS1g0opxrLXQKpLrZ4ZrQTODPubSewo1Bl0jw_Yy9kKTTYCrrboEQZpwR1f7wThslo5PrykUlIwf-usJ_VP2z1ysV7wZWKQ7jYt7whsj1RNBfnn5JmwGZIOeGSvybhrfipV3qQ1LkiN1vn3XytCY9kYgohgcPyQuZWa4kAVKN5_Un32s3Ijc-7pY8y4MlA-HRfw4IZkpNpKQI2PMGThZZ2RWjJDW7z1mWvKc3-DLH_pRs56OwVTMUEYh5DoCjl57UxLgK9fhVgQGGhlpzQflDCkM-381s_j0KJV-R2aVucdagpOBNlKPriqdH3SCvvw60TEtNH9uALDxpd8AONrOXvOkW3zQvgbni-96SzWcGr6lEfVFo5g5wf8pDnMhYNVfmGEHJ476lMFdwdzaolMJ360aAGMx2s96rDmEl1EQxsSObYhfDFx1H00fo).2018.
-19. Toward Gender-inclusive Coreference Resolution.2019
+18. Toward Gender-inclusive Coreference Resolution.2019
 
-## 数据集
-1. [GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
-2. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
+## Model de-bias
 
-## 模型去偏见
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[PDF](https://arxiv.org/abs/1906.08976v1)
 2. Gender Bias in Coreference Resolution: Evaluation and Debiasing Methods.NAACL.2018[PDF](https://arxiv.org/abs/1804.06876v1)
 3. Towards Understanding Gender Bias in Neural Relation Extraction. ACL. 2020. [PDF](https://www.aclweb.org/anthology/2020.acl-main.265/)
@@ -81,26 +106,27 @@ Must-read Papers on Gender Bias!
 20. Learning Gender-Neutral Word Embeddings.EMNLP.2018.[PDF](https://arxiv.org/abs/1809.01496v1)
 21. Reducing Gender Bias in Word-Level Language Models with a Gender-Equalizing Loss Function.2019.[PDF](https://arxiv.org/abs/1905.12801)
 22. Mitigating Unwanted Biases with Adversarial Learning.2018.[PDF](https://arxiv.org/abs/1801.07593)
-24. Resolving Gendered Ambiguous Pronouns with BERT.2019.[PDF](https://arxiv.org/abs/1906.01161)
-25. Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution.2019.[PDF](https://arxiv.org/abs/1905.08868)
-26. On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution.2019.[PDF](https://www.aclweb.org/anthology/W19-3816/)
-27. Transfer Learning from Pre-trained BERT for Pronoun Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3812/)
-28. Gendered Pronoun Resolution Using BERT and an Extractive Question Answering Formulation.2019.[PDF](https://arxiv.org/abs/1906.03695)
-29. BERT Masked Language Modeling for Co-reference Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3811/)
-30. MSnet:A BERT-based Network for Gendered Pronoun Resolution.2019.[PDF](https://arxiv.org/abs/1908.00308)
-31. Fill the GAP: Exploiting BERT for Pronoun Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3815/)
-32. Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge.2019.[PDF](https://arxiv.org/abs/1905.01780)
-33. Gendered Ambiguous Pronouns Shared Task: Boosting Model Confidence by Evidence Pooling.2019.[PDF](https://arxiv.org/abs/1906.00839)
-34. Generating Clues for Gender based Occupation De-biasing in Text.2019.[PDF](https://arxiv.org/abs/1804.03839)
-35. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[PDF](https://arxiv.org/abs/1911.11025)
-36. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
-37. Mitigating Political Bias in Language Models Through Reinforced Calibration.AAAI 2021最佳论文.[PDF](https://arxiv.org/abs/2104.14795)
-38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
-39. The Knowref Coreference Corpus: Removing Gender and Number Cues for Difficult Pronominal Anaphora Resolution.[PDF](https://arxiv.org/abs/1811.01747)
+23. Resolving Gendered Ambiguous Pronouns with BERT.2019.[PDF](https://arxiv.org/abs/1906.01161)
+24. Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution.2019.[PDF](https://arxiv.org/abs/1905.08868)
+25. On GAP Coreference Resolution Shared Task: Insights from the 3rd Place Solution.2019.[PDF](https://www.aclweb.org/anthology/W19-3816/)
+26. Transfer Learning from Pre-trained BERT for Pronoun Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3812/)
+27. Gendered Pronoun Resolution Using BERT and an Extractive Question Answering Formulation.2019.[PDF](https://arxiv.org/abs/1906.03695)
+28. BERT Masked Language Modeling for Co-reference Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3811/)
+29. MSnet:A BERT-based Network for Gendered Pronoun Resolution.2019.[PDF](https://arxiv.org/abs/1908.00308)
+30. Fill the GAP: Exploiting BERT for Pronoun Resolution.2019.[PDF](https://www.aclweb.org/anthology/W19-3815/)
+31. Anonymized BERT: An Augmentation Approach to the Gendered Pronoun Resolution Challenge.2019.[PDF](https://arxiv.org/abs/1905.01780)
+32. Gendered Ambiguous Pronouns Shared Task: Boosting Model Confidence by Evidence Pooling.2019.[PDF](https://arxiv.org/abs/1906.00839)
+33. Generating Clues for Gender based Occupation De-biasing in Text.2019.[PDF](https://arxiv.org/abs/1804.03839)
+34. Women, Politics and Twitter: Using Machine Learning to Change the Discourse.2019.[PDF](https://arxiv.org/abs/1911.11025)
+35. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
+36. Mitigating Political Bias in Language Models Through Reinforced Calibration.AAAI 2021最佳论文.[PDF](https://arxiv.org/abs/2104.14795)
+37. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
+38. The Knowref Coreference Corpus: Removing Gender and Number Cues for Difficult Pronominal Anaphora Resolution.[PDF](https://arxiv.org/abs/1811.01747)
 
 
 
-## 文本去偏见
+## Text de-bias
+
 1. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 2. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
 3. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf).
@@ -115,10 +141,14 @@ Must-read Papers on Gender Bias!
 12. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
 13. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
 
+## Data set
+
+1. [GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
+2. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
 
 
+## ArXiv's latest related papers
 
-## ARXIV最新相关论文
 1. Back to Square One：Bias Detection, Training and Commonsense Disentanglement in the Winograd Schema.2021.[PDF](https://arxiv.org/abs/2104.08161)
 2. Detoxifying Language Models Risks Marginalizing Minority Voices.2021.[PDF](https://arxiv.org/abs/2104.06390)
 3. First the Worst：Finding Better Gender Translations during Beam Search.2021.[PDF](https://arxiv.org/abs/2104.07429)
@@ -138,26 +168,29 @@ Must-read Papers on Gender Bias!
 17. Multilingual Offensive Language Identification for Low-resource Languages.2021.[PDF](https://arxiv.org/abs/2105.05996)
 18. Black or White but Never Neutral: How Readers Perceive Identity from Yellow or Skin-toned Emoji.2021.[PDF](https://arxiv.org/abs/2105.05887)
 19. The Incel Lexicon: Deciphering the Emergent Cryptolect of a Global Misogynistic Community.2021.[PDF](https://arxiv.org/abs/2105.12006)
-20.  MBIC - A Media Bias Annotation Dataset Including Annotator Characteristics.2021.[PDF](https://arxiv.org/abs/2105.11910)
-21.  How to Split: The Effect of Word Segmentation on Gender Bias in Speech Translation.2021.[PDF](https://arxiv.org/abs/2105.13782)
-22.  A Simple Voting Mechanism for Online Sexist Content Identification.2021.[PDF](https://arxiv.org/abs/2105.14309)
-23.  LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering.2021.[PDF](https://arxiv.org/abs/2105.14300)
-24.  Gender Bias Amplification During Speed-Quality Optimization in Neural  Machine Translation.2021.[PDF](https://arxiv.org/abs/2106.00169)
-25.  Gender Bias Hidden Behind Chinese Word Embeddings: The Case of Chinese  Adjectives.2021.[PDF](https://arxiv.org/abs/2106.00181)
-26.  John Praised Mary Because He? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs.2021.[PDF](https://arxiv.org/abs/2106.01060)
-27.  Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia.2021.[PDF](https://arxiv.org/abs/2106.01601)
-28.  Understanding and Countering Stereotypes: A Computational Approach to  the Stereotype Content Model.2021.[PDF](https://arxiv.org/abs/2106.02596)
-29.  Towards Equal Gender Representation in the Annotations of Toxic Language  Detection.2021.[PDF](https://arxiv.org/abs/2106.02183)
-30.  A Diachronic Evaluation of Gender Asymmetry in Euphemism.2021.[PDF](https://arxiv.org/abs/2106.02083)
-31.  LGBTQ-AI? Exploring Expressions of Gender and Sexual Orientation in Chatbots.2021.[PDF](https://arxiv.org/abs/2106.02076)
+20. MBIC - A Media Bias Annotation Dataset Including Annotator Characteristics.2021.[PDF](https://arxiv.org/abs/2105.11910)
+21. How to Split: The Effect of Word Segmentation on Gender Bias in Speech Translation.2021.[PDF](https://arxiv.org/abs/2105.13782)
+22. A Simple Voting Mechanism for Online Sexist Content Identification.2021.[PDF](https://arxiv.org/abs/2105.14309)
+23. LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering.2021.[PDF](https://arxiv.org/abs/2105.14300)
+24. Gender Bias Amplification During Speed-Quality Optimization in Neural  Machine Translation.2021.[PDF](https://arxiv.org/abs/2106.00169)
+25. Gender Bias Hidden Behind Chinese Word Embeddings: The Case of Chinese  Adjectives.2021.[PDF](https://arxiv.org/abs/2106.00181)
+26. John Praised Mary Because He? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs.2021.[PDF](https://arxiv.org/abs/2106.01060)
+27. Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia.2021.[PDF](https://arxiv.org/abs/2106.01601)
+28. Understanding and Countering Stereotypes: A Computational Approach to  the Stereotype Content Model.2021.[PDF](https://arxiv.org/abs/2106.02596)
+29. Towards Equal Gender Representation in the Annotations of Toxic Language  Detection.2021.[PDF](https://arxiv.org/abs/2106.02183)
+30. A Diachronic Evaluation of Gender Asymmetry in Euphemism.2021.[PDF](https://arxiv.org/abs/2106.02083)
+31. LGBTQ-AI? Exploring Expressions of Gender and Sexual Orientation in Chatbots.2021.[PDF](https://arxiv.org/abs/2106.02076)
 
 ## COMMENT 
+
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [PDF](https://www.nature.com/articles/d41586-018-05707-8)
 
-## 心理学
+## Psychology
+
 1. [偏见、歧视与刻板印象，有什么不一样？高浩容](https://www.jianshu.com/p/b5c6465a9b73)
 2. [Implicit Bias: What It Means and How It Affects Behavior](https://www.thoughtco.com/understanding-implicit-bias-4165634).
 
-## 相关文献
+## Relevant literature
+
 1. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.[PDF](https://jmlr.org/papers/v21/20-074.html)
