@@ -12,15 +12,15 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 1. [Volume](#Volume)
 2. [Review article](#Review-article)
-3. [Bias analysis](#Bias)
-4. [Bias measurement](#Bias measurement)
-5. [Model de-bias](#Model de-bias)
-6. [Text de-bias](#Text de-bias)
-7. [Data set](#Data set)
-8. [ArXiv's latest related papers](#ArXiv's latest related papers)
+3. [Bias analysis](#Bias-analysis)
+4. [Bias measurement](#Bias-measurement)
+5. [Model de-bias](#Model-de-bias)
+6. [Text de-bias](#Text-de-bias)
+7. [Data set](#Data-set)
+8. [ArXiv's latest related papers](#ArXiv's-latest-related-papers)
 9. [COMMENT](#COMMENT )
 10. [Psychology](#Psychology)
-11. [Relevant literature](#Relevant literature)
+11. [Relevant literature](#Relevant-literature)
 
 ## Volume
 
