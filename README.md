@@ -180,6 +180,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 29. Towards Equal Gender Representation in the Annotations of Toxic Language  Detection.2021.[PDF](https://arxiv.org/abs/2106.02183)
 30. A Diachronic Evaluation of Gender Asymmetry in Euphemism.2021.[PDF](https://arxiv.org/abs/2106.02083)
 31. LGBTQ-AI? Exploring Expressions of Gender and Sexual Orientation in Chatbots.2021.[PDF](https://arxiv.org/abs/2106.02076)
+32. RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models.2021.[PDF](https://arxiv.org/abs/2106.03521)
 
 ## COMMENT 
 
