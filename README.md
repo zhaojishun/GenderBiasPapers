@@ -185,6 +185,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 32. RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models.2021.[PDF](https://arxiv.org/abs/2106.03521)
 
 ## Conference
+### EMNLP
+1. De-Biased Court’s View Generation with Causality.2020.[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
 ## COMMENT 
 
