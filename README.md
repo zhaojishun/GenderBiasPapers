@@ -186,7 +186,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Conference
 ### EMNLP
-1. De-Biased Court’s View Generation with Causality.2020.[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.56)
+1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 [PDF](https://arxiv.org/pdf/1707.09457.pdf)
+2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
 ## COMMENT 
 
