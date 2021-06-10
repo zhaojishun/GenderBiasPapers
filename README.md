@@ -146,6 +146,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 1. [GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
 2. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
+3. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 
 
 ## ArXiv's latest related papers
