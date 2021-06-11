@@ -184,6 +184,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 31. LGBTQ-AI? Exploring Expressions of Gender and Sexual Orientation in Chatbots.2021.[PDF](https://arxiv.org/abs/2106.02076)
 32. RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models.2021.[PDF](https://arxiv.org/abs/2106.03521)
 33. Automatic Sexism Detection with Multilingual Transformer Models.2021.[PDF](https://arxiv.org/abs/2106.04908)
+34. Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models.2021.EACL.[PDF](https://www.aclweb.org/anthology/2021.eacl-main.190/)
 
 ## Conference
 ### EMNLP
