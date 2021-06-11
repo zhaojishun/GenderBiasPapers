@@ -105,24 +105,24 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Bias measurement
 
-1. First Women, Second Sex: Gender Bias in Wikipedia. 2015
-2. It's A Man's Wikipedia? Assessing Gender Inequality in An Online Encyclopedia. 2015
-3. Social Bias in Elicited Natural Language Inference. 2017
-4. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019
-5. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
-6. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test. 1998.
-7. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.
-8. Semantics Derived Automatically from Language Corpora Contain Human-like Biases. 2017.
-9. Assessing Social and Intersectional Biases in Contextualized Word Representations. NIPS.2019
-10. Measuring Gender Bias in Word Embeddings across Domains and Discovering New Gender Bias Word Categories.2019
-11. On Measuring Social Biases in Sentence Encoders.2019
-12. Black Is to Criminal as Caucasian Is to Police: Detecting and Removing Multiclass Bias in Word Embeddings.2019.
-13. Lipstick on A Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings but Do Not Remove Them.2019
-14. Gender Bias in Neural Natural Language Processing.2018[PDF](https://arxiv.org/abs/1807.11714)
-15. Reducing Gender Bias in Abusive Language Detection.2018.
-16. Gender Bias in Coreference Resolution.2018
-17. [Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns](https://watermark.silverchair.com/tacl_a_00240.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqkwggKlBgkqhkiG9w0BBwagggKWMIICkgIBADCCAosGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPE7Kg3Ht5MYve550AgEQgIICXP0XeqeYbNwTfeu-j1c7Q84pHmZAqEziDs0r7WXaeGBx5LZkRmuTp5wWdWdxFj1tqwjN3l74QyTiz7PiN066qi2gOOvAqATNT07KTu5y-R-2SPSD_ExZBGdkKDnkyGm3zIXwJ7zx7FC78Ud5b-2c5LdYNC7dyBd_4Te-ca3hwUzilZqAezF-IwBTrPTt5to0M-B10aAfHCjgxQRxui_cTtS20pDtnQEor6G9vhZwF9ckwVb47CYSqt4qoL1jDuBMTRuRiKBnr7Qp2pI6YLfRz7gtaB6plzaU_3i6tWXcO4HHPx7K3o0JbJAREUSQ3R9PAPyuUCihdQ6LtxHKRL8QEbZ5rsjSqa4_KgFDgsF7R1gycfsS1g0opxrLXQKpLrZ4ZrQTODPubSewo1Bl0jw_Yy9kKTTYCrrboEQZpwR1f7wThslo5PrykUlIwf-usJ_VP2z1ysV7wZWKQ7jYt7whsj1RNBfnn5JmwGZIOeGSvybhrfipV3qQ1LkiN1vn3XytCY9kYgohgcPyQuZWa4kAVKN5_Un32s3Ijc-7pY8y4MlA-HRfw4IZkpNpKQI2PMGThZZ2RWjJDW7z1mWvKc3-DLH_pRs56OwVTMUEYh5DoCjl57UxLgK9fhVgQGGhlpzQflDCkM-381s_j0KJV-R2aVucdagpOBNlKPriqdH3SCvvw60TEtNH9uALDxpd8AONrOXvOkW3zQvgbni-96SzWcGr6lEfVFo5g5wf8pDnMhYNVfmGEHJ476lMFdwdzaolMJ360aAGMx2s96rDmEl1EQxsSObYhfDFx1H00fo).2018.
-18. Toward Gender-inclusive Coreference Resolution.2019
+1. Measuring Individual Differences in Implicit Cognition: The Implicit Association Test.1998.[PDF](https://groups.psych.northwestern.edu/rosenfeld/documents/greenwald98IAT.pdf)
+2. National Differences in Gender–science Stereotypes Predict National Sex Differences in Science and Math Achievement.2009.PNAS.[PDF](https://www.pnas.org/content/pnas/106/26/10593.full.pdf)
+3. First Women, Second Sex: Gender Bias in Wikipedia.2015.[PDF](https://arxiv.org/abs/1502.02341)
+4. It's A Man's Wikipedia? Assessing Gender Inequality in An Online Encyclopedia.2015.[PDF](https://arxiv.org/abs/1501.06307)
+5. Social Bias in Elicited Natural Language Inference.2017.[PDF](https://www.aclweb.org/anthology/W17-1609.pdf)
+6. Semantics Derived Automatically from Language Corpora Contain Human-like Biases.2017.[PDF](https://arxiv.org/abs/1608.07187)
+7. Gender Bias in Neural Natural Language Processing.2018.[PDF](https://arxiv.org/abs/1807.11714)
+8. Reducing Gender Bias in Abusive Language Detection.2018.[PDF](https://arxiv.org/abs/1808.07231)
+9. Gender Bias in Coreference Resolution.2018.[PDF](https://arxiv.org/abs/1804.09301)
+10. Mind the GAP: A Balanced Corpus of Gendered Ambiguous Pronouns.2018.[PDF](https://watermark.silverchair.com/tacl_a_00240.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqkwggKlBgkqhkiG9w0BBwagggKWMIICkgIBADCCAosGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMPE7Kg3Ht5MYve550AgEQgIICXP0XeqeYbNwTfeu-j1c7Q84pHmZAqEziDs0r7WXaeGBx5LZkRmuTp5wWdWdxFj1tqwjN3l74QyTiz7PiN066qi2gOOvAqATNT07KTu5y-R-2SPSD_ExZBGdkKDnkyGm3zIXwJ7zx7FC78Ud5b-2c5LdYNC7dyBd_4Te-ca3hwUzilZqAezF-IwBTrPTt5to0M-B10aAfHCjgxQRxui_cTtS20pDtnQEor6G9vhZwF9ckwVb47CYSqt4qoL1jDuBMTRuRiKBnr7Qp2pI6YLfRz7gtaB6plzaU_3i6tWXcO4HHPx7K3o0JbJAREUSQ3R9PAPyuUCihdQ6LtxHKRL8QEbZ5rsjSqa4_KgFDgsF7R1gycfsS1g0opxrLXQKpLrZ4ZrQTODPubSewo1Bl0jw_Yy9kKTTYCrrboEQZpwR1f7wThslo5PrykUlIwf-usJ_VP2z1ysV7wZWKQ7jYt7whsj1RNBfnn5JmwGZIOeGSvybhrfipV3qQ1LkiN1vn3XytCY9kYgohgcPyQuZWa4kAVKN5_Un32s3Ijc-7pY8y4MlA-HRfw4IZkpNpKQI2PMGThZZ2RWjJDW7z1mWvKc3-DLH_pRs56OwVTMUEYh5DoCjl57UxLgK9fhVgQGGhlpzQflDCkM-381s_j0KJV-R2aVucdagpOBNlKPriqdH3SCvvw60TEtNH9uALDxpd8AONrOXvOkW3zQvgbni-96SzWcGr6lEfVFo5g5wf8pDnMhYNVfmGEHJ476lMFdwdzaolMJ360aAGMx2s96rDmEl1EQxsSObYhfDFx1H00fo)
+11. Toward Gender-inclusive Coreference Resolution.2019.[PDF](https://arxiv.org/abs/1910.13913)
+12. Assessing Social and Intersectional Biases in Contextualized Word Representations.2019.NIPS.[PDF](https://arxiv.org/abs/1911.01485)
+13. Measuring Gender Bias in Word Embeddings across Domains and Discovering New Gender Bias Word Categories.2019.[PDF](https://www.aclweb.org/anthology/W19-3804.pdf)
+14. On Measuring Social Biases in Sentence Encoders.2019.[PDF](https://arxiv.org/abs/1903.10561)
+15. Black Is to Criminal as Caucasian Is to Police: Detecting and Removing Multiclass Bias in Word Embeddings.2019.[PDF](https://arxiv.org/abs/1904.04047)
+16. Lipstick on A Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings but Do Not Remove Them.2019.[PDF](https://arxiv.org/abs/1903.03862)
+17. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://www.aclweb.org/anthology/D19-1176.pdf)
+18. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 
 ## Model de-bias
 
