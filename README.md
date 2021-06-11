@@ -178,11 +178,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 7. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
 8. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
 9. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
-10. 
-11. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.2020.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
-12. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
-13. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
-14. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
+10. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.2020.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
+11. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
+12. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
+13. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 
 ## Data set
 
