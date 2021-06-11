@@ -71,6 +71,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019[PDF](https://arxiv.org/abs/1906.08976v1)
 2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
+3. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
 
 
 ## Bias analysis
