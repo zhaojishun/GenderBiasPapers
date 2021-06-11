@@ -19,7 +19,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 7. [Text de-bias](#Text-de-bias)
 8. [Data set](#Data-set)
 9. [Conference](#Conference)
-10. [COMMENT](#COMMENT )
+10. [Comment](#Comment )
 11. [Psychology](#Psychology)
 12. [Relevant literature](#Relevant-literature)
 
@@ -65,6 +65,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 32. RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models.2021.[PDF](https://arxiv.org/abs/2106.03521)
 33. Automatic Sexism Detection with Multilingual Transformer Models.2021.[PDF](https://arxiv.org/abs/2106.04908)
 34. Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models.2021.EACL.[PDF](https://www.aclweb.org/anthology/2021.eacl-main.190/)
+35. Ruddit: Norms of Offensiveness for English Reddit Comments.2021.[PDF](https://arxiv.org/abs/2106.05664)
 
 
 ## Review article
@@ -193,7 +194,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 [PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
-## COMMENT 
+## Comment 
 
 1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
 2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [PDF](https://www.nature.com/articles/d41586-018-05707-8)
