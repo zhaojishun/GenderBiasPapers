@@ -202,7 +202,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## Psychology
 
 1. 偏见、歧视与刻板印象，有什么不一样?.[HTML](https://www.jianshu.com/p/b5c6465a9b73)
-2. Implicit Bias: What It Means and How It Affects Behavior.[HTML](https://www.thoughtco.com/understanding-implicit-bias-4165634).
+2. Implicit Bias: What It Means and How It Affects Behavior.[HTML](https://www.thoughtco.com/understanding-implicit-bias-4165634)
 
 ## Relevant literature
 
