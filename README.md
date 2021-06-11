@@ -185,19 +185,19 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Data set
 
-1. [GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1).2020
+1. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020.[PDF](https://xueshu.baidu.com/usercenter/paper/show?paperid=1w780m40b22108x02s2h0mt06r479606&site=xueshu_se&hitarticle=1)
 2. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
 3. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 
 ## Conference
 ### EMNLP
-1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 [PDF](https://arxiv.org/pdf/1707.09457.pdf)
+1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017,EMNLP.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
 ## Comment 
 
-1. Menegatti M, Rubini M. Gender Bias and Sexism in Language[M]//Oxford Research Encyclopedia of Communication. 2017. [PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
-2. James Z, Londa S.  AI Can Be Sexist and Racist—It’s Time to Make It Fair[J]. Nature, 2018. [PDF](https://www.nature.com/articles/d41586-018-05707-8)
+1. Gender Bias and Sexism in Language.Oxford Research Encyclopedia of Communication.2017.[PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
+2. AI Can Be Sexist and Racist—It’s Time to Make It Fair.2018.Nature.[PDF](https://www.nature.com/articles/d41586-018-05707-8)
 
 ## Psychology
 
