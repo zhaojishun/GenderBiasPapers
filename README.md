@@ -78,16 +78,16 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Bias analysis
 
-1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.
-2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 (Best Long Paper). [PDF](https://arxiv.org/pdf/1707.09457.pdf)
+1. Man Is to Computer Programmer as Woman Is to Homemaker? Debiasing Word Embeddings.2016.[PDF](https://arxiv.org/abs/1607.06520)
+2. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.EMNLP 2017 (Best Long Paper).[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 3. Word Embeddings Quantify 100 Years of Gender and Ethnic Stereotypes.2018.[PDF](https://arxiv.org/abs/1711.08412v1).[Code](https://github.com/nikhgarg/EmbeddingDynamicStereotypes)
 4. Understanding the Origins of Bias in Word Embeddings.2018.[PDF](https://arxiv.org/abs/1810.03611)
 5. Is there Gender bias and stereotype in Portuguese Word Embeddings? 2018.[PDF](https://arxiv.org/abs/1810.04528)
 6. Learning Gender-Neutral Word Embeddings.EMNLP.2018.[PDF](https://arxiv.org/abs/1809.01496v1)
 7. Measuring Societal Biases from Text Corpora with Smoothed First-Order Co-occurrence.2018.[PDF](https://arxiv.org/abs/1812.10424)
-8. Measuring and Mitigating Unintended Bias in Text Classification.AAAI.2018
+8. Measuring and Mitigating Unintended Bias in Text Classification.AAAI.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3278721.3278729)
 9. Gender Bias in Sentiment Analysis.2018.[PDF](https://wlv.openrepository.com/bitstream/handle/2436/620633/GenderBiasInSentimentAnalysisPreprint.pdf?sequence=9&isAllowed=y)
-10. Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems.2018.
+10. Examining Gender and Race Bias in Two Hundred Sentiment Analysis Systems.2018.[PDF](https://arxiv.org/abs/1805.04508)
 11. Good Secretaries, Bad Truck Drivers? Occupational Gender Stereotypes in Sentiment Analysis.2019.[PDF](https://arxiv.org/abs/1906.10256v2)
 12. Gender Bias in Contextualized Word Embeddings.2019.[PDF](https://arxiv.org/abs/1904.03310)
 13. Evaluating the Underlying Gender Bias in Contextualized Word Embeddings.2019.[PDF](https://arxiv.org/abs/1904.08783)
