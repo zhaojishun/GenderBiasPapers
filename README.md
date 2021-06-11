@@ -169,19 +169,20 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Text de-bias
 
-1. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
-2. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
-3. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf).
-4. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
-5. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
-6. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.[PDF](https://arxiv.org/abs/1911.03842)
-7. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
-8. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
-9. Connotation Frames of Power and Agency in Modern Films.2017.[PDF](https://www.aclweb.org/anthology/D17-1247/)
-10. Style Transfer Through Back-Translation.2018.[PDF](https://www.aclweb.org/anthology/P18-1080/)
-11. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
-12. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
-13. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
+1. When He Doesn’t Mean You: GenderExclusive Language as Ostracism.2011.[PDF](https://www.wgalil.ac.il/files/GENDER/gendered_language_ostracism.pdf)
+2. Can Gender Fair Language Reduce Gender Stereotyping and Discrimination?.2016.[HTML](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00025/full)
+3. Connotation Frames of Power and Agency in Modern Films.2017.[PDF](https://www.aclweb.org/anthology/D17-1247/)
+4. Style Transfer Through Back-Translation.2018.[PDF](https://www.aclweb.org/anthology/P18-1080/)
+5. Proposed Taxonomy for Gender Bias in Text;A Filtering Methodology for the Gender Generalization Subtype.2019.[PDF](https://www.aclweb.org/anthology/W19-3802.pdf)
+6. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
+7. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
+8. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
+9. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
+10. 
+11. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.2020.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
+12. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
+13. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
+14. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 
 ## Data set
 
