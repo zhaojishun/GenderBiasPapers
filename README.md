@@ -183,6 +183,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 11. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
 12. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
 13. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
+14. They, Them, Theirs: Rewriting with Gender-Neutral English.2021.[PDF](https://arxiv.org/pdf/2102.06788.pdf)
 
 ## Data set
 
