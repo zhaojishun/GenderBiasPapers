@@ -126,8 +126,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 18. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 
 ## Bias Detection
-1. Identifying semantic edit intentions from revisions in wikipedia.2017.[https://www.aclweb.org/anthology/D17-1213.pdf]
-2. Detecting Biased Statements in Wikipedia.2018.[PDF])(https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
+1. Identifying semantic edit intentions from revisions in wikipedia.2017.[PDF](https://www.aclweb.org/anthology/D17-1213.pdf)
+2. Detecting Biased Statements in Wikipedia.2018.[PDF](https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
 3. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
 4. Identifying framing bias in online news.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
 5. 
