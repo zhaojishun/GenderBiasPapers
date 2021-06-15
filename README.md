@@ -178,12 +178,14 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 6. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
 7. Contextual Affective Analysis: A Case Study of People Portrayals in Online #MeToo Stories.2019.[PDF](https://arxiv.org/pdf/1904.04164.pdf)
 8. Queens are Powerful too: Mitigating Gender Bias in Dialogue Generation.2019.[PDF](https://arxiv.org/abs/1911.03842)
-9. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
-10. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.2020.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
-11. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
-12. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
-13. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
-14. They, Them, Theirs: Rewriting with Gender-Neutral English.2021.[PDF](https://arxiv.org/pdf/2102.06788.pdf)
+9. Automatic Gender Identification and Reinflection in Arabic.2019.[PDF](https://www.aclweb.org/anthology/W19-3822.pdf)
+10. Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology.2019.ACL.[PDF](https://www.aclweb.org/anthology/P19-1161/)
+11. Multi-Dimensional Gender Bias Classification.2020.[PDF](https://arxiv.org/pdf/2005.00614.pdf)
+12. DivGAN: Towards Diverse Paraphrase Generation via Diversified Generative Adversarial Network.2020.[PDF](https://www.aclweb.org/anthology/2020.findings-emnlp.218/)
+13. PowerTransformer: Unsupervised Controllable Revision for Biased Language Correction.2020.[PDF](https://arxiv.org/abs/2010.13816)
+14. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
+15. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
+16. They, Them, Theirs: Rewriting with Gender-Neutral English.2021.[PDF](https://arxiv.org/pdf/2102.06788.pdf)
 
 ## Data set
 
