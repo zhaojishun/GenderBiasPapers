@@ -15,7 +15,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. [Review article](#Review-article)
 4. [Bias analysis](#Bias-analysis)
 5. [Bias measurement](#Bias-measurement)
-6. [Bias Detection](#Bias Detection)
+6. [Bias Detection](#Bias-Detection)
 7. [Model de-bias](#Model-de-bias)
 8. [Text de-bias](#Text-de-bias)
 9. [Data set](#Data-set)
