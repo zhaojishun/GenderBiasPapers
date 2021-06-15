@@ -15,13 +15,14 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. [Review article](#Review-article)
 4. [Bias analysis](#Bias-analysis)
 5. [Bias measurement](#Bias-measurement)
-6. [Model de-bias](#Model-de-bias)
-7. [Text de-bias](#Text-de-bias)
-8. [Data set](#Data-set)
-9. [Conference](#Conference)
-10. [Comment](#Comment )
-11. [Psychology](#Psychology)
-12. [Relevant literature](#Relevant-literature)
+6. [Bias Detection](#Bias Detection)
+7. [Model de-bias](#Model-de-bias)
+8. [Text de-bias](#Text-de-bias)
+9. [Data set](#Data-set)
+10. [Conference](#Conference)
+11. [Comment](#Comment )
+12. [Psychology](#Psychology)
+13. [Relevant literature](#Relevant-literature)
 
 ## Volume
 
@@ -123,6 +124,14 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 16. Lipstick on A Pig: Debiasing Methods Cover up Systematic Gender Biases in Word Embeddings but Do Not Remove Them.2019.[PDF](https://arxiv.org/abs/1903.03862)
 17. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://www.aclweb.org/anthology/D19-1176.pdf)
 18. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
+
+## Bias Detection
+1. Identifying semantic edit intentions from revisions in wikipedia.2017.[https://www.aclweb.org/anthology/D17-1213.pdf]
+2. Detecting Biased Statements in Wikipedia.2018.[PDF])(https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
+3. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
+4. Identifying framing bias in online news.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
+5. 
+
 
 ## Model de-bias
 
