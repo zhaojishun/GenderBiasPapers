@@ -71,7 +71,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Review article
 
-1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019[PDF](https://arxiv.org/abs/1906.08976v1)
+1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[PDF](https://arxiv.org/abs/1906.08976v1)
 2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
 3. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
 4. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
@@ -126,11 +126,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 18. StereoSet: Measuring stereotypical bias in pretrained language models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 
 ## Bias Detection
-1. Identifying semantic edit intentions from revisions in wikipedia.2017.[PDF](https://www.aclweb.org/anthology/D17-1213.pdf)
+1. Identifying Semantic Edit Intentions from Revisions in Wikipedia.2017.[PDF](https://www.aclweb.org/anthology/D17-1213.pdf)
 2. Detecting Biased Statements in Wikipedia.2018.[PDF](https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
 3. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
-4. Identifying framing bias in online news.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
-5. 
+4. Identifying Framing Bias in Online News.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
 
 
 ## Model de-bias
@@ -206,7 +205,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Conference
 ### EMNLP
-1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017,EMNLP.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
+1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
 ## Comment 
