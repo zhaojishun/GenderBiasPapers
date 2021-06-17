@@ -67,6 +67,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 33. Automatic Sexism Detection with Multilingual Transformer Models.2021.[PDF](https://arxiv.org/abs/2106.04908)
 34. Stereotype and Skew: Quantifying Gender Bias in Pre-trained and Fine-tuned Language Models.2021.EACL.[PDF](https://www.aclweb.org/anthology/2021.eacl-main.190/)
 35. Ruddit: Norms of Offensiveness for English Reddit Comments.2021.[PDF](https://arxiv.org/abs/2106.05664)
+36. Evaluating Gender Bias in Hindi-English Machine Translation.2021.[PDF](https://arxiv.org/abs/2106.08680)
 
 
 ## Review article
