@@ -175,6 +175,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 36. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.2021.AAAI.(Best Paper).[PDF](https://arxiv.org/abs/2104.14795)
 38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
+39. A Survey of Race, Racism, and Anti-Racism in NLP.2021.[PDF](https://arxiv.org/abs/2106.11410)
 
 
 
