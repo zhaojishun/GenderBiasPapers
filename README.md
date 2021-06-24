@@ -71,6 +71,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 37. Subjective Bias in Abstractive Summarization.2021.[PDF](https://arxiv.org/abs/2106.10084)
 38. Predicting Gender of Brazilian Names Using Deep Learning.2021.[PDF](https://arxiv.org/abs/2106.10156)
 39. A Survey of Race, Racism, and Anti-Racism in NLP.2021.[PDF](https://arxiv.org/abs/2106.11410)
+40. On Positivity Bias in Negative Reviews.2021.[PDF](https://arxiv.org/abs/2106.12056)
 
 
 ## Review article
