@@ -75,6 +75,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 41. Towards Understanding and Mitigating Social Biases in Language Models.2021.[PDF](https://arxiv.org/abs/2106.13219)
 42. A Source-Criticism Debiasing Method for GloVe Embeddings.2021.[PDF](https://arxiv.org/abs/2106.13382)
 43. Quantifying Social Biases in NLP: A Generalization and Empirical Comparison of Extrinsic Fairness Metrics.2021.[PDF](https://arxiv.org/abs/2106.14574)
+44. On the Interaction of Belief Bias and Explanations.2021.[PDF](https://arxiv.org/abs/2106.15355)
+45. Sexism in the Judiciary.2021.[PDF](https://arxiv.org/abs/2106.15103)
 
 
 ## Review article
