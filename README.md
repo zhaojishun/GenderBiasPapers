@@ -235,4 +235,6 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## MY LIST
 1. Detecting Gender Stereotypes: Lexicon vs. Supervised Learning Methods.2020.ACM.[PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376488)
 2. Implicitly Abusive Language – What does it actually look like and why are we not getting there?2021.NAACL.[PDF](https://www.aclweb.org/anthology/2021.naacl-main.48/)
+3. Making Pre-trained Language Models Better Few-shot Learners.2021.ACL.[PDF](https://arxiv.org/abs/2012.15723)
+
 
