@@ -23,6 +23,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 11. [Comment](#Comment )
 12. [Psychology](#Psychology)
 13. [Relevant literature](#Relevant-literature)
+14. [Prompt](#Prompt)
 
 ## Volume
 
@@ -232,9 +233,16 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 1. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.2020.[PDF](https://jmlr.org/papers/v21/20-074.html)
 
+
+## Prompt
+1. Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference.2021.EACL.[PDF](https://arxiv.org/abs/2001.07676)
+2. It’s not just size that matters: Small language models are also few-shot learners.2021.NAACL.[PDF](https://arxiv.org/abs/2009.07118)
+3. Making Pre-trained Language Models Better Few-shot Learners.2021.ACL.[PDF](https://arxiv.org/abs/2012.15723)
+
+
 ## MY LIST
 1. Detecting Gender Stereotypes: Lexicon vs. Supervised Learning Methods.2020.ACM.[PDF](https://dl.acm.org/doi/abs/10.1145/3313831.3376488)
 2. Implicitly Abusive Language – What does it actually look like and why are we not getting there?2021.NAACL.[PDF](https://www.aclweb.org/anthology/2021.naacl-main.48/)
-3. Making Pre-trained Language Models Better Few-shot Learners.2021.ACL.[PDF](https://arxiv.org/abs/2012.15723)
+
 
 
