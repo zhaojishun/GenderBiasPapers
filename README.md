@@ -213,11 +213,12 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## Data set
 
 1. Detecting Hate Speech on the World Wide Web.2012.[PDF](https://aclanthology.org/W12-2103.pdf)
-2. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020.[PDF](https://arxiv.org/abs/1912.04778v1)
-3. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
-4. StereoSet: Measuring Stereotypical Bias in Pretrained Language Models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
-5. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
-6. 
+2. Automated Dictionary Creation for Analyzing Text: An Illustration from Stereotype Content.2019.[PDF](https://psyarxiv.com/afm8k/)
+3. GeBioToolkit: Automatic Extraction of Gender-Balanced Multilingual Corpus of Wikipedia Biographies.2020.[PDF](https://arxiv.org/abs/1912.04778v1)
+4. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
+5. StereoSet: Measuring Stereotypical Bias in Pretrained Language Models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
+6. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
+
 
 ## Conference
 ### EMNLP
