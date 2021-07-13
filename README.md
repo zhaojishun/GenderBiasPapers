@@ -141,10 +141,12 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Bias Detection
 1. Automatic recognition of habituals: a three-way classification of clausal aspect.2015.EMNLP.[PDF](https://aclanthology.org/D15-1294.pdf)
-2. Identifying Semantic Edit Intentions from Revisions in Wikipedia.2017.[PDF](https://www.aclweb.org/anthology/D17-1213.pdf)
-3. Detecting Biased Statements in Wikipedia.2018.[PDF](https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
-4. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
-5. Identifying Framing Bias in Online News.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
+2. Identifying Generic Noun Phrases.2015.[PDF](https://aclanthology.org/P10-1005.pdf)
+3. Illegal is not a Noun: Linguistic Form for Detection of Pejorative Nominalizations.2017.[PDF](https://aclanthology.org/W17-3014.pdf)
+4. Identifying Semantic Edit Intentions from Revisions in Wikipedia.2017.[PDF](https://www.aclweb.org/anthology/D17-1213.pdf)
+5. Detecting Biased Statements in Wikipedia.2018.[PDF](https://www.researchgate.net/profile/Besnik-Fetahu-2/publication/324641488_Detecting_Biased_Statements_in_Wikipedia/links/5b7d1b2592851c1e1226bd86/Detecting-Biased-Statements-in-Wikipedia.pdf)
+6. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
+7. Identifying Framing Bias in Online News.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
 
 
 ## Model de-bias
