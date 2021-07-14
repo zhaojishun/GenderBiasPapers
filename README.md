@@ -80,6 +80,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 44. On the Interaction of Belief Bias and Explanations.2021.[PDF](https://arxiv.org/abs/2106.15355)
 45. Sexism in the Judiciary.2021.[PDF](https://arxiv.org/abs/2106.15103)
 46. Gender Recognition in Informal and Formal Language Scenarios via Transfer Learning.2021.[PDF](https://arxiv.org/abs/2107.02759)
+47. Generating Gender Augmented Data for NLP.2021.[PDF](https://arxiv.org/abs/2107.05987)
 
 
 ## Review article
