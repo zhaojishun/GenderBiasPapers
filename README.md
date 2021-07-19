@@ -228,7 +228,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Conference
 ### ACL-IJCNLP 2021
-1. He is very intelligent, she is very beautiful? On Mitigating Social Biases in Language Modelling and Generation.[PDF](https://research.adobe.com/publication/he-is-very-intelligent-she-is-very-beautiful-on-mitigating-social-biases-in-language-modelling-and-generation/)
+1. He Is Very Intelligent, She Is Very Beautiful? On Mitigating Social Biases in Language Modelling and Generation.[PDF](https://research.adobe.com/publication/he-is-very-intelligent-she-is-very-beautiful-on-mitigating-social-biases-in-language-modelling-and-generation/)
+2. Mitigating Bias in Session-based Cyberbullying Detection: A Non-compromising Approach.[PDF](https://www.researchgate.net/profile/Lu-Cheng-11/publication/352573248_Mitigating_Bias_in_Session-based_Cyberbullying_Detection_A_Non-Compromising_Approach/links/60d0fbfa92851ca3acbae485/Mitigating-Bias-in-Session-based-Cyberbullying-Detection-A-Non-Compromising-Approach.pdf)
 ### EMNLP
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
