@@ -82,6 +82,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 46. Gender Recognition in Informal and Formal Language Scenarios via Transfer Learning.2021.[PDF](https://arxiv.org/abs/2107.02759)
 47. Generating Gender Augmented Data for NLP.2021.[PDF](https://arxiv.org/abs/2107.05987)
 48. Intersectional Bias in Causal Language Models.2021.[PDF](https://arxiv.org/abs/2107.07691)
+49. Using Adversarial Debiasing to Remove Bias from Word Embeddings.2021.[PDF](https://arxiv.org/abs/2107.10251)
+50. Debiasing Multilingual Word Embeddings: A Case Study of Three Indian  Languages.2021.[PDF](https://arxiv.org/abs/2107.10181)
+51. How Do Pedophiles Tweet? Investigating the Writing Styles and Online  Personas of Child Cybersex Traffickers in the Philippines.2021.[PDF](https://arxiv.org/abs/2107.09881)
 
 
 ## Review article
