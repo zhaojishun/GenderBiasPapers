@@ -96,6 +96,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
 3. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
 4. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
+5. The Psychology of Prejudice, Stereotyping and Discrimination: An Overview.2003.[PDF](https://www.simplypsychology.org/Prejudice.pdf)
 
 
 ## Bias analysis
