@@ -265,7 +265,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 2. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
 3. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
 
-## Group Image
+## [Group Image](https://github.com/DgCtRbt/Group-Image)
 1. Social Identity Theory.1979.[html]
 (http://www.age-of-the-sage.org/psychology/social/social_identity_theory.html)
 2. Narrative Language as an Expression of Individual and Group Identity: The Narrative Categorical Content Analysis.2013.
