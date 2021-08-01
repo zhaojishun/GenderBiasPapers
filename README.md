@@ -25,7 +25,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 13. [Relevant literature](#Relevant-literature)
 14. [Prompt](#Prompt)
 15. [Hate Speech & Abusive language & Cyberbullying](#Hate-Speech-&-Abusive-language-&-Cyberbullying)
-16. [Group Image](#Group Image)
+16. [Group Image](#Group-Image)
 
 ## Volume
 
