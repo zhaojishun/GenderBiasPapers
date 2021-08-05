@@ -88,6 +88,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 51. How Do Pedophiles Tweet? Investigating the Writing Styles and Online  Personas of Child Cybersex Traffickers in the Philippines.2021.[PDF](https://arxiv.org/abs/2107.09881)
 52. Extending Challenge Sets to Uncover Gender Bias in Machine Translation: Impact of Stereotypical Verbs and Adjectives.2021.[PDF](https://arxiv.org/abs/2107.11584)
 53. Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition.2021.[PDF](https://arxiv.org/abs/2107.11610)
+54. Q-Pain: A Question Answering Dataset to Measure Social Bias in Pain Management.2021.[PDF](https://arxiv.org/abs/2108.01764)
 
 
 ## Review article
