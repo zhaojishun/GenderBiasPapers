@@ -93,11 +93,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ## Review article
 
-1. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[PDF](https://arxiv.org/abs/1906.08976v1)
-2. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
-3. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
-4. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
-5. The Psychology of Prejudice, Stereotyping and Discrimination: An Overview.2003.[PDF](https://www.simplypsychology.org/Prejudice.pdf)
+1. The Psychology of Prejudice, Stereotyping and Discrimination: An Overview.2003.[PDF](https://www.simplypsychology.org/Prejudice.pdf)
+2. Mitigating Gender Bias in Natural Language Processing: Literature Review.2019.[PDF](https://arxiv.org/abs/1906.08976v1)
+3. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
+4. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
+5. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
 
 
 ## Bias analysis
@@ -263,14 +263,13 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. Making Pre-trained Language Models Better Few-shot Learners.2021.ACL.[PDF](https://arxiv.org/abs/2012.15723)
 
 ## Hate Speech & Abusive language & Cyberbullying
-1. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
-2. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
-3. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
+1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
+2. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
+3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
-1. Social Identity Theory.1979.[html]
-(http://www.age-of-the-sage.org/psychology/social/social_identity_theory.html)
-2. Narrative Language as an Expression of Individual and Group Identity: The Narrative Categorical Content Analysis.2013.
+1. Social Identity Theory.1979.[HTML](http://www.age-of-the-sage.org/psychology/social/social_identity_theory.html)
+2. Narrative Language as an Expression of Individual and Group Identity: The Narrative Categorical Content Analysis.2013.[PDF](https://journals.sagepub.com/doi/pdf/10.1177/2158244013492084)
 
 
 
