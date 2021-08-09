@@ -89,6 +89,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 52. Extending Challenge Sets to Uncover Gender Bias in Machine Translation: Impact of Stereotypical Verbs and Adjectives.2021.[PDF](https://arxiv.org/abs/2107.11584)
 53. Context-aware Adversarial Training for Name Regularity Bias in Named Entity Recognition.2021.[PDF](https://arxiv.org/abs/2107.11610)
 54. Q-Pain: A Question Answering Dataset to Measure Social Bias in Pain Management.2021.[PDF](https://arxiv.org/abs/2108.01764)
+55. SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection.2021.[PDF](https://arxiv.org/abs/2108.03070)
+56. GENder-IT: An Annotated English-Italian Parallel Challenge Set for Cross-linguistic Natural Gender Phenomena.2021.[PDF](https://arxiv.org/abs/2108.02854)
 
 
 ## Review article
