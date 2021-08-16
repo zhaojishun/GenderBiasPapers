@@ -92,6 +92,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 55. SWSR: A Chinese Dataset and Lexicon for Online Sexism Detection.2021.[PDF](https://arxiv.org/abs/2108.03070)
 56. GENder-IT: An Annotated English-Italian Parallel Challenge Set for Cross-linguistic Natural Gender Phenomena.2021.[PDF](https://arxiv.org/abs/2108.02854)
 57. What do Bias Measures Measure?.2021.[PDF](https://arxiv.org/abs/2108.03362)
+58. Diachronic Analysis of German Parliamentary Proceedings: Ideological Shifts through the Lens of Political Biases.2021.[PDF](https://arxiv.org/abs/2108.06295)
 
 
 ## Review article
