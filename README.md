@@ -286,7 +286,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 
 ##### **Short Papers**
 
-1. An Exploratory Analysis of the Relation between Offensive Language and Mental Health
+1. [An Exploratory Analysis of the Relation between Offensive Language and Mental Health](https://arxiv.org/abs/2105.14888)
 2. Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification
 3. Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization
 ### ACL-IJCNLP 2021
@@ -320,6 +320,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
 2. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
 3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
+4. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
+
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
 1. Social Identity Theory.1979.[HTML](http://www.age-of-the-sage.org/psychology/social/social_identity_theory.html)
