@@ -321,6 +321,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 2. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
 3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
 4. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
+5. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
 
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
