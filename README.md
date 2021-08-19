@@ -227,6 +227,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 15. Plug and Play Language Models: A Simple Approach to Controlled Text Generation.2020.[PDF](https://arxiv.org/abs/1912.02164)
 16. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 17. They, Them, Theirs: Rewriting with Gender-Neutral English.2021.[PDF](https://arxiv.org/pdf/2102.06788.pdf)
+18. Challenges in Automated Debiasing for Toxic Language Detection.2021.EACL.[PDF](https://arxiv.org/abs/2102.00086)
 
 ## Data set
 
