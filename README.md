@@ -204,8 +204,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 36. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.2021.AAAI.(Best Paper).[PDF](https://arxiv.org/abs/2104.14795)
 38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
-39. 
-
+39. UnQovering Stereotyping Biases via Underspecified Questions.Findings of EMNLP 2020.[PDF](https://arxiv.org/abs/2010.02428)
 
 
 
@@ -240,6 +239,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 5. Social Bias Frames: Reasoning about Social and Power Implications of Language.2020.[PDF](https://arxiv.org/abs/1911.03891)
 6. StereoSet: Measuring Stereotypical Bias in Pretrained Language Models.2020.[PDF](https://arxiv.org/abs/2004.09456v1)
 7. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
+8. Ruddit: Norms of Offensiveness for English Reddit Comments.ACL 2021.[PDF](https://arxiv.org/abs/2106.05664)
 
 
 ## Conference
@@ -329,6 +329,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 5. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
 6. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
 7. [onfronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://www.jair.org/index.php/jair/article/view/12590)
+8. [ias and comparison framework for abusive language datasets](https://link.springer.com/article/10.1007/s43681-021-00081-0)
 
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
