@@ -204,6 +204,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 36. Mitigating Media Bias through Neutral Article Generation.2021.[PDF](https://arxiv.org/pdf/2104.00336.pdf)
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.2021.AAAI.(Best Paper).[PDF](https://arxiv.org/abs/2104.14795)
 38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
+39. 
 
 
 
@@ -228,6 +229,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 16. Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP.2021.[PDF](https://arxiv.org/pdf/2103.00453.pdf)
 17. They, Them, Theirs: Rewriting with Gender-Neutral English.2021.[PDF](https://arxiv.org/pdf/2102.06788.pdf)
 18. Challenges in Automated Debiasing for Toxic Language Detection.2021.EACL.[PDF](https://arxiv.org/abs/2102.00086)
+19. Generate, Prune, Select: A Pipeline for Counterspeech Generation against Online Hate Speech.2021.ACL.[PDF](https://arxiv.org/abs/2106.01625)
 
 ## Data set
 
@@ -258,6 +260,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 9. [Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution](https://arxiv.org/abs/2106.01518)
 10. [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2107.12214)
 11. [Annotating Online Misogyny](https://www.derczynski.com/papers/annotating_online_misogyny.pdf)
+12. [uman-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://arxiv.org/abs/2107.08720)
 
 ##### **Short Papers**
 
@@ -324,6 +327,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
 4. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
 5. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
+6. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
+7. [onfronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://www.jair.org/index.php/jair/article/view/12590)
 
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
