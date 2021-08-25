@@ -94,7 +94,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 57. What do Bias Measures Measure?.2021.[PDF](https://arxiv.org/abs/2108.03362)
 58. Diachronic Analysis of German Parliamentary Proceedings: Ideological Shifts through the Lens of Political Biases.2021.[PDF](https://arxiv.org/abs/2108.06295)
 59. 2020 U.S. Presidential Election: Analysis of Female and Male Users on Twitter.2021.[PDF](https://arxiv.org/abs/2108.09416)
-
+60. Examining Covert Gender Bias: A Case Study in Turkish and English Machine Translation Models.2021.[PDF](https://arxiv.org/abs/2108.10379)
 
 ## Review article
 
