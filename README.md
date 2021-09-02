@@ -97,6 +97,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 60. Examining Covert Gender Bias: A Case Study in Turkish and English Machine Translation Models.2021.[PDF](https://arxiv.org/abs/2108.10379)
 61. Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.2021.[PDF](https://arxiv.org/abs/2108.12084)
 62. A Generative Approach for Mitigating Structural Biases in Natural Language Inference.2021.[PDF](https://arxiv.org/abs/2108.14006)
+63. Dataset for Identification of Homophobia and Transophobia in  Multilingual YouTube Comments.2021.[PDF](https://arxiv.org/abs/2109.00227)
+64. Machine-Learning Media Bias.2021.[PDF](https://arxiv.org/abs/2109.00024)
 
 ## Review article
 
