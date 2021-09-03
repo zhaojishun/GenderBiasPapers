@@ -99,6 +99,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 62. A Generative Approach for Mitigating Structural Biases in Natural Language Inference.2021.[PDF](https://arxiv.org/abs/2108.14006)
 63. Dataset for Identification of Homophobia and Transophobia in  Multilingual YouTube Comments.2021.[PDF](https://arxiv.org/abs/2109.00227)
 64. Machine-Learning Media Bias.2021.[PDF](https://arxiv.org/abs/2109.00024)
+65. Don't Discard All the Biased Instances: Investigating a Core Assumption in Dataset Bias Mitigation Techniques.2021.[PDF](https://arxiv.org/abs/2109.00521)
 
 ## Review article
 
