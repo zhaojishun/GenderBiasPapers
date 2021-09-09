@@ -336,11 +336,13 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
 4. Understanding Abuse: A Typology of Abusive Language Detection Subtasks.2017.[PDF](https://arxiv.org/abs/1705.09899)
 5. Inducing a Lexicon of Abusive Words – A Feature-Based Approach.2018.NAACL.[PDF](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8471/file/Wiegand_et_al_Inducing_a_Lexicon_of_Abusive_Words_2018.pdf)
-6. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
-7. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
-8. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
-9. [onfronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://www.jair.org/index.php/jair/article/view/12590)
-10. [ias and comparison framework for abusive language datasets](https://link.springer.com/article/10.1007/s43681-021-00081-0)
+6. THE THEORY OF DISCRIMINATION
+7. A flexible text analyzer based on ontologies: an application for detecting discriminatory language.
+8. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
+9. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
+10. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
+11. [onfronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://www.jair.org/index.php/jair/article/view/12590)
+12. [ias and comparison framework for abusive language datasets](https://link.springer.com/article/10.1007/s43681-021-00081-0)
 
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
