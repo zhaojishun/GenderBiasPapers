@@ -101,6 +101,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 64. Machine-Learning Media Bias.2021.[PDF](https://arxiv.org/abs/2109.00024)
 65. Don't Discard All the Biased Instances: Investigating a Core Assumption in Dataset Bias Mitigation Techniques.2021.[PDF](https://arxiv.org/abs/2109.00521)
 66. SS-BERT: Mitigating Identity Terms Bias in Toxic Comment Classification by Utilising the Notion of "Subjectivity" and "Identity Terms".2021.[PDF](https://arxiv.org/abs/2109.02691)
+67. Sustainable Modular Debiasing of Language Models.2021.[PDF](https://arxiv.org/abs/2109.03646)
+68. Hi, My Name Is Martha: Using Names to Measure and Mitigate Bias in Generative Dialogue Models.2021.[PDF](https://arxiv.org/abs/2109.03300)
 
 ## Review article
 
