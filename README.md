@@ -103,6 +103,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 66. SS-BERT: Mitigating Identity Terms Bias in Toxic Comment Classification by Utilising the Notion of "Subjectivity" and "Identity Terms".2021.[PDF](https://arxiv.org/abs/2109.02691)
 67. Sustainable Modular Debiasing of Language Models.2021.[PDF](https://arxiv.org/abs/2109.03646)
 68. Hi, My Name Is Martha: Using Names to Measure and Mitigate Bias in Generative Dialogue Models.2021.[PDF](https://arxiv.org/abs/2109.03300)
+69. Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation.2021.[PDF](https://arxiv.org/abs/2109.03858)
+70. Debiasing Methods in Natural Language Understanding Make Bias More Accessible.2021.[PDF](https://arxiv.org/abs/2109.04095)
 
 ## Review article
 
