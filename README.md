@@ -105,6 +105,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 68. Hi, My Name Is Martha: Using Names to Measure and Mitigate Bias in Generative Dialogue Models.2021.[PDF](https://arxiv.org/abs/2109.03300)
 69. Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation.2021.[PDF](https://arxiv.org/abs/2109.03858)
 70. Debiasing Methods in Natural Language Understanding Make Bias More Accessible.2021.[PDF](https://arxiv.org/abs/2109.04095)
+71. Assessing the Reliability of Word Embedding Gender Bias Measures.2021.[PDF](https://arxiv.org/abs/2109.04732)
 
 ## Review article
 
