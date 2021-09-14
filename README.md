@@ -106,6 +106,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 69. Collecting a Large-Scale Gender Bias Dataset for Coreference Resolution and Machine Translation.2021.[PDF](https://arxiv.org/abs/2109.03858)
 70. Debiasing Methods in Natural Language Understanding Make Bias More Accessible.2021.[PDF](https://arxiv.org/abs/2109.04095)
 71. Assessing the Reliability of Word Embedding Gender Bias Measures.2021.[PDF](https://arxiv.org/abs/2109.04732)
+72. Mitigating Language-Dependent Ethnic Bias in BERT.2021.[PDF](https://arxiv.org/abs/2109.05704)
+73. NeuTral Rewriter: A Rule-Based and Neural Approach to Automatic Rewriting into Gender-Neutral Alternatives.2021.[PDF](https://arxiv.org/abs/2109.06105)
+74. Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search.2021.[PDF](https://arxiv.org/abs/2109.05433)
 
 ## Review article
 
