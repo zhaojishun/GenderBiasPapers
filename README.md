@@ -109,6 +109,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 72. Mitigating Language-Dependent Ethnic Bias in BERT.2021.[PDF](https://arxiv.org/abs/2109.05704)
 73. NeuTral Rewriter: A Rule-Based and Neural Approach to Automatic Rewriting into Gender-Neutral Alternatives.2021.[PDF](https://arxiv.org/abs/2109.06105)
 74. Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search.2021.[PDF](https://arxiv.org/abs/2109.05433)
+75. Uncovering Implicit Gender Bias in Narratives through Commonsense Inference.2021.[PDF](https://arxiv.org/abs/2109.06437)
+76. The Emergence of the Shape Bias Results from Communicative Efficiency.2021.[PDF](https://arxiv.org/abs/2109.06232)
 
 ## Review article
 
