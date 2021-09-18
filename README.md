@@ -261,58 +261,19 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## Conference
 ### **ACL 2021** Papers
 
-#### **Main Conference**
-
-##### **Long Papers**
-
-1. [Metaphor Generation with Conceptual Mappings](https://arxiv.org/abs/2106.01228)
-2. [A Unified Generative Framework for Aspect-based Sentiment Analysis](https://arxiv.org/abs/2106.04300)
-3. [Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://arxiv.org/abs/2106.15231)
-4. [What Ingredients Make for an Effective Crowdsourcing Protocol for Difficult NLU Data Collection Tasks?](https://arxiv.org/abs/2106.00794)
-5. [RedditBias: A Real-World Resource for Bias Evaluation and Debiasing of Conversational Language Models](https://arxiv.org/abs/2106.03521)
-6. [Bad Seeds: Evaluating Lexical Methods for Bias Measurement](https://aclanthology.org/2021.acl-long.148.pdf)
-7. [A Survey of Race, Racism, and Anti-Racism in NLP](https://arxiv.org/abs/2106.11410)
-8. [Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets](https://aclanthology.org/2021.acl-long.81.pdf)
-9. [Dissecting Generation Modes for Abstractive Summarization Models via Ablation and Attribution](https://arxiv.org/abs/2106.01518)
-10. [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2107.12214)
-11. [Annotating Online Misogyny](https://www.derczynski.com/papers/annotating_online_misogyny.pdf)
-12. [uman-in-the-Loop for Data Collection: a Multi-Target Counter Narrative Dataset to Fight Online Hate Speech](https://arxiv.org/abs/2107.08720)
-
-##### **Short Papers**
-
-1. SaRoCo: Detecting Satire in a Novel Romanian Corpus of News Articles
-2. On Positivity Bias in Negative Reviews
-
-
-
-#### **Findings**
-
-##### **Long Papers**
-
-1. Towards Knowledge-Grounded Counter Narrative Generation for Hate Speech
-2. Adversary-Aware Rumor Detection
-3. Exploring the Role of Context in Utterance-level Emotion, Act and Intent Classification in Conversations: An Empirical Study
-4. Semantic and Syntactic Enhanced Aspect Sentiment Triplet Extraction
-5. “Does it Matter When I Think You Are Lying?” Improving Deception Detection by Integrating Interlocutor’s Judgements in Conversations
-6. GRICE: A Grammar-based Dataset for Recovering Implicature and Conversational rEasoning
-7. Empowering Language Understanding with Counterfactual Reasoning
-8. CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection
-9. Automatic Text Simplification for Social Good: Progress and Challenges
-10. When Time Makes Sense: A Historically-Aware Approach to Targeted Sense Disambiguation
-11. How to Split: the Effect of Word Segmentation on Gender Bias in Speech Translation
-12. Prompting Contrastive Explanations for Commonsense Reasoning Tasks
-13. He is very intelligent, she is very beautiful? On Mitigating Social Biases in Language Modelling and Generation
-14. Using Social and Linguistic Information to Adapt Pretrained Representations for Political Perspective Identification
-15. John praised Mary because \*he\*? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs
-
-##### **Short Papers**
-
-1. [An Exploratory Analysis of the Relation between Offensive Language and Mental Health](https://arxiv.org/abs/2105.14888)
-2. Learning Disentangled Latent Topics for Twitter Rumour Veracity Classification
-3. Highlight-Transformer: Leveraging Key Phrase Aware Attention to Improve Abstractive Multi-Document Summarization
-### ACL-IJCNLP 2021
-1. He Is Very Intelligent, She Is Very Beautiful? On Mitigating Social Biases in Language Modelling and Generation.[PDF](https://research.adobe.com/publication/he-is-very-intelligent-she-is-very-beautiful-on-mitigating-social-biases-in-language-modelling-and-generation/)
-2. Mitigating Bias in Session-based Cyberbullying Detection: A Non-compromising Approach.[PDF](https://www.researchgate.net/profile/Lu-Cheng-11/publication/352573248_Mitigating_Bias_in_Session-based_Cyberbullying_Detection_A_Non-Compromising_Approach/links/60d0fbfa92851ca3acbae485/Mitigating-Bias-in-Session-based-Cyberbullying-Detection-A-Non-Compromising-Approach.pdf)
+1. Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach](https://aclanthology.org/2021.acl-long.168.pdf)
+2. [Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model](https://aclanthology.org/2021.acl-long.50.pdf)
+3. [Bad Seeds: Evaluating Lexical Methods for Bias Measurement](https://aclanthology.org/2021.acl-long.148.pdf)
+4. [Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf)
+5. [Societal Biases in Language Generation: Progress and Challenges](https://aclanthology.org/2021.acl-long.330.pdf)
+6. [De-biasing Distantly Supervised Named Entity Recognition via Causal Intervention](https://aclanthology.org/2021.acl-long.371.pdf)
+7. [StereoSet: Measuring stereotypical bias in pretrained language models](https://aclanthology.org/2021.acl-long.416.pdf)
+8. [Counterfactual Inference for Text Classification Debiasing](https://aclanthology.org/2021.acl-long.422.pdf)
+9. [Gender bias amplification during Speed-Quality optimization in Neural Machine Translation](https://aclanthology.org/2021.acl-short.15.pdf)
+10. [On Positivity Bias in Negative Reviews](https://aclanthology.org/2021.acl-short.39.pdf)
+11. [Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia](https://aclanthology.org/2021.acl-short.45.pdf)
+12. [Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models](https://aclanthology.org/2021.acl-short.43.pdf)
+13. [Personal Bias in Prediction of Emotions Elicited by Textual Opinions
 ### EMNLP
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
