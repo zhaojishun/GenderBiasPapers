@@ -23,8 +23,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 12. [Psychology](#Psychology)
 13. [Relevant literature](#Relevant-literature)
 14. [Prompt](#Prompt)
-15. [Hate Speech & Abusive language & Cyberbullying](#Hate-Speech-&-Abusive-language-&-Cyberbullying)
-16. [Group Image](#Group-Image)
+15. [Group Image](#Group-Image)
 
 ## Volume
 
@@ -337,20 +336,6 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 1. Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference.2021.EACL.[PDF](https://arxiv.org/abs/2001.07676)
 2. It’s not just size that matters: Small language models are also few-shot learners.2021.NAACL.[PDF](https://arxiv.org/abs/2009.07118)
 3. Making Pre-trained Language Models Better Few-shot Learners.2021.ACL.[PDF](https://arxiv.org/abs/2012.15723)
-
-## Hate Speech & Abusive language & Cyberbullying
-1. Hateful Symbols or Hateful People? Predictive Features for Hate Speech Detection on Twitter.2016.NAACL.[PDF](https://aclanthology.org/N16-2013.pdf)
-2. Content-Driven Detection of Cyberbullying on the Instagram Social Network.2016.[PDF](https://www.researchgate.net/profile/Haoti-Zhong/publication/313796198_Content-Driven_Detection_of_Cyberbullying_on_the_Instagram_Social_Network/links/58a65cc7aca27206d9a79e7a/Content-Driven-Detection-of-Cyberbullying-on-the-Instagram-Social-Network.pdf)
-3. Automated Hate Speech Detection and the Problem of Offensive Language.2017.[PDF](https://arxiv.org/pdf/1703.04009.pdf)
-4. Understanding Abuse: A Typology of Abusive Language Detection Subtasks.2017.[PDF](https://arxiv.org/abs/1705.09899)
-5. Inducing a Lexicon of Abusive Words – A Feature-Based Approach.2018.NAACL.[PDF](https://ids-pub.bsz-bw.de/frontdoor/deliver/index/docId/8471/file/Wiegand_et_al_Inducing_a_Lexicon_of_Abusive_Words_2018.pdf)
-6. THE THEORY OF DISCRIMINATION
-7. A flexible text analyzer based on ontologies: an application for detecting discriminatory language.
-8. Predicting the Type and Target of Offensive Posts in Social Media.2019.[PDF](https://arxiv.org/abs/1902.09666)
-9. Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts.2019.[PDF](https://aclanthology.org/D19-1176/)
-10. Towards generalisable hate speech detection: a review on obstacles and solutions.[TML](https://peerj.com/articles/cs-598/)
-11. [onfronting Abusive Language Online: A Survey from the Ethical and Human Rights Perspective](https://www.jair.org/index.php/jair/article/view/12590)
-12. [ias and comparison framework for abusive language datasets](https://link.springer.com/article/10.1007/s43681-021-00081-0)
 
 
 ## [Group Image](https://github.com/DgCtRbt/Group-Image)
