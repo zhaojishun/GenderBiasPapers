@@ -261,7 +261,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 ## Conference
 ### **ACL 2021** Papers
 
-1. Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach](https://aclanthology.org/2021.acl-long.168.pdf)
+1. [Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach](https://aclanthology.org/2021.acl-long.168.pdf)
 2. [Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model](https://aclanthology.org/2021.acl-long.50.pdf)
 3. [Bad Seeds: Evaluating Lexical Methods for Bias Measurement](https://aclanthology.org/2021.acl-long.148.pdf)
 4. [Position Bias Mitigation: A Knowledge-Aware Graph Model for Emotion Cause Extraction](https://aclanthology.org/2021.acl-long.261.pdf)
