@@ -111,6 +111,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 76. The Emergence of the Shape Bias Results from Communicative Efficiency.2021.[PDF](https://arxiv.org/abs/2109.06232)
 77. Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects.2021.[PDF](https://arxiv.org/abs/2109.07542)
 78. Balancing out Bias: Achieving Fairness Through Training Reweighting.2021.[PDF](https://arxiv.org/abs/2109.08253)
+79. Model Bias in NLP - Application to Hate Speech Classification.2021.[PDF](https://arxiv.org/abs/2109.09725)
+80. A Machine Learning Pipeline to Examine Political Bias with Congressional Speeches.2021.[PDF](https://arxiv.org/abs/2109.09014)
+81. UPV at CheckThat! 2021: Mitigating Cultural Differences for Identifying Multilingual Check-worthy Claims.2021.[PDF](https://arxiv.org/abs/2109.09232)
 
 ## Review article
 
