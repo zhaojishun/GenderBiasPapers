@@ -114,6 +114,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 79. Model Bias in NLP - Application to Hate Speech Classification.2021.[PDF](https://arxiv.org/abs/2109.09725)
 80. A Machine Learning Pipeline to Examine Political Bias with Congressional Speeches.2021.[PDF](https://arxiv.org/abs/2109.09014)
 81. UPV at CheckThat! 2021: Mitigating Cultural Differences for Identifying Multilingual Check-worthy Claims.2021.[PDF](https://arxiv.org/abs/2109.09232)
+82. Stepmothers Are Mean and Academics Are Pretentious: What Do Pretrained Language Models Learn about You?.2021.[PDF](https://arxiv.org/abs/2109.10052)
 
 ## Review article
 
