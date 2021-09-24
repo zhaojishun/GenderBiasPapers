@@ -118,6 +118,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 83. Contrastive Learning for Fair Representations.2021.[PDF](https://arxiv.org/abs/2109.10645)
 84. Fairness-aware Class Imbalanced Learning.2021.[PDF](https://arxiv.org/abs/2109.10444)
 85. Evaluating Debiasing Techniques for Intersectional Biases.2021.[PDF](https://arxiv.org/abs/2109.10441)
+86. Can Question Generation Debias Question Answering Models? A Case Study on Question-context Lexical Overlap.2021.[PDF](https://arxiv.org/abs/2109.11256)
+87. Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.2021.[PDF](https://arxiv.org/abs/2109.11061)
 
 ## Review article
 
