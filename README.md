@@ -284,6 +284,28 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 11. [Men Are Elected, Women Are Married: Events Gender Bias on Wikipedia](https://aclanthology.org/2021.acl-short.45.pdf)
 12. [Using Adversarial Attacks to Reveal the Statistical Bias in Machine Reading Comprehension Models](https://aclanthology.org/2021.acl-short.43.pdf)
 13. [Personal Bias in Prediction of Emotions Elicited by Textual Opinions
+
+#### Morality and natural language processing
+1. Ruddit: Norms of Offensiveness for English Reddit Comments
+2. Learning Language and Multimodal Privacy-Preserving Markers of Mood from Mobile Data
+3. A Human-machine Collaborative Framework for Evaluating Malevolence in Dialogues
+4. Structurizing Misinformation Stories via Rationalizing Fact-Checks
+5. Mitigating Bias in Session-based Cyberbullying Detection: A Non-Compromising Approach
+6. Can Sequence-to-Sequence Models Crack Substitution Ciphers?
+7. Societal Biases in Language Generation: Progress and Challenges
+8. Controversy and Conformity: from Generalized to Personalized Aggressiveness Detection
+9. Bad Seeds: Evaluating Lexical Methods for Bias Measurement
+10. Understanding and Countering Stereotypes: A Computational Approach to the Stereotype Content Model
+11. A Survey of Race, Racism, and Anti-Racism in NLP
+12. Examining the Inductive Bias of Neural Language Models with Artificial Languages
+13. Changing the World by Changing the Data
+14. Stereotyping Norwegian Salmon: An Inventory of Pitfalls in Fairness Benchmark Datasets
+15. Breaking Down Walls of Text: How Can NLP Benefit Consumer Privacy?
+16. StereoSet: Measuring stereotypical bias in pretrained language models
+17. Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies
+18. Intrinsic Bias Metrics Do Not Correlate with Application Bias
+19. Annotating Online Misogyny
+
 ### EMNLP
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
