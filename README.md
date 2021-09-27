@@ -120,6 +120,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 85. Evaluating Debiasing Techniques for Intersectional Biases.2021.[PDF](https://arxiv.org/abs/2109.10441)
 86. Can Question Generation Debias Question Answering Models? A Case Study on Question-context Lexical Overlap.2021.[PDF](https://arxiv.org/abs/2109.11256)
 87. Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.2021.[PDF](https://arxiv.org/abs/2109.11061)
+88. Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding.2021.[PDF](https://arxiv.org/abs/2109.11708)
 
 ## Review article
 
