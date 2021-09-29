@@ -122,6 +122,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 87. Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.2021.[PDF](https://arxiv.org/abs/2109.11061)
 88. Detect and Perturb: Neutral Rewriting of Biased and Sensitive Text via Gradient-based Decoding.2021.[PDF](https://arxiv.org/abs/2109.11708)
 89. Mitigating Racial Biases in Toxic Language Detection with an Equity-based Ensemble Framework.2021.[PDF](https://arxiv.org/abs/2109.13137)
+90. How Different Text-preprocessing Techniques Using The BERT Model Affect The Gender Profiling of Authors.2021.[PDF](https://arxiv.org/abs/2109.13890)
+91. VoxCeleb Enrichment for Age and Gender Recognition.2021.[PDF](https://arxiv.org/abs/2109.13510)
+92. Identifying and Mitigating Gender Bias in Hyperbolic Word Embeddings.2021.[PDF](https://arxiv.org/abs/2109.13767)
 
 ## Review article
 
