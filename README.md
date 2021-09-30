@@ -125,6 +125,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 90. How Different Text-preprocessing Techniques Using The BERT Model Affect The Gender Profiling of Authors.2021.[PDF](https://arxiv.org/abs/2109.13890)
 91. VoxCeleb Enrichment for Age and Gender Recognition.2021.[PDF](https://arxiv.org/abs/2109.13510)
 92. Identifying and Mitigating Gender Bias in Hyperbolic Word Embeddings.2021.[PDF](https://arxiv.org/abs/2109.13767)
+93. Marked Attribute Bias in Natural Language Inference.2021.[PDF](https://arxiv.org/abs/2109.14039)
+94. Second Order WinoBias (SoWinoBias) Test Set for Latent Gender Bias Detection in Coreference Resolution.2021.[PDF](https://arxiv.org/abs/2109.14047)
 
 ## Review article
 
