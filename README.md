@@ -127,6 +127,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 92. Identifying and Mitigating Gender Bias in Hyperbolic Word Embeddings.2021.[PDF](https://arxiv.org/abs/2109.13767)
 93. Marked Attribute Bias in Natural Language Inference.2021.[PDF](https://arxiv.org/abs/2109.14039)
 94. Second Order WinoBias (SoWinoBias) Test Set for Latent Gender Bias Detection in Coreference Resolution.2021.[PDF](https://arxiv.org/abs/2109.14047)
+95. #ContextMatters: Advantages and Limitations of Using Machine Learning to Support Women in Politics.2021.[PDF](https://arxiv.org/abs/2110.00116)
+96. Unpacking the Interdependent Systems of Discrimination: Ableist Bias in NLP Systems through an Intersectional Lens.2021.[PDF](https://arxiv.org/abs/2110.00521)
 
 ## Review article
 
