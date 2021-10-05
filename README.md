@@ -129,6 +129,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 94. Second Order WinoBias (SoWinoBias) Test Set for Latent Gender Bias Detection in Coreference Resolution.2021.[PDF](https://arxiv.org/abs/2109.14047)
 95. #ContextMatters: Advantages and Limitations of Using Machine Learning to Support Women in Politics.2021.[PDF](https://arxiv.org/abs/2110.00116)
 96. Unpacking the Interdependent Systems of Discrimination: Ableist Bias in NLP Systems through an Intersectional Lens.2021.[PDF](https://arxiv.org/abs/2110.00521)
+97. Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models.2021.[PDF](https://arxiv.org/abs/2110.01094)
+98. Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models.2021.[PDF](https://arxiv.org/abs/2110.00672)
 
 ## Review article
 
