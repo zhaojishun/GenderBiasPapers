@@ -131,6 +131,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 96. Unpacking the Interdependent Systems of Discrimination: Ableist Bias in NLP Systems through an Intersectional Lens.2021.[PDF](https://arxiv.org/abs/2110.00521)
 97. Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models.2021.[PDF](https://arxiv.org/abs/2110.01094)
 98. Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models.2021.[PDF](https://arxiv.org/abs/2110.00672)
+99. Representation of Professions in Entertainment Media: Insights into Frequency and Sentiment Trends through Computational Text Analysis.2021.[PDF](https://arxiv.org/abs/2110.03873)
 
 ## Review article
 
