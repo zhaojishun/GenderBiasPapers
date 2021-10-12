@@ -132,6 +132,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 97. Adversarial Examples Generation for Reducing Implicit Gender Bias in Pre-trained Models.2021.[PDF](https://arxiv.org/abs/2110.01094)
 98. Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models.2021.[PDF](https://arxiv.org/abs/2110.00672)
 99. Representation of Professions in Entertainment Media: Insights into Frequency and Sentiment Trends through Computational Text Analysis.2021.[PDF](https://arxiv.org/abs/2110.03873)
+100. Evaluation of Summarization Systems across Gender, Age, and Race.2021.[PDF](https://arxiv.org/abs/2110.04384)
+101. Improving Gender Fairness of Pre-Trained Language Models without  Catastrophic Forgetting.2021.[PDF](https://arxiv.org/abs/2110.05367)
 
 ## Review article
 
