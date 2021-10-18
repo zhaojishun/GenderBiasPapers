@@ -133,7 +133,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 98. Low Frequency Names Exhibit Bias and Overfitting in Contextualizing Language Models.2021.[PDF](https://arxiv.org/abs/2110.00672)
 99. Representation of Professions in Entertainment Media: Insights into Frequency and Sentiment Trends through Computational Text Analysis.2021.[PDF](https://arxiv.org/abs/2110.03873)
 100. Evaluation of Summarization Systems across Gender, Age, and Race.2021.[PDF](https://arxiv.org/abs/2110.04384)
-101. Improving Gender Fairness of Pre-Trained Language Models without  Catastrophic Forgetting.2021.[PDF](https://arxiv.org/abs/2110.05367)
+101. Improving Gender Fairness of Pre-Trained Language Models without Catastrophic Forgetting.2021.[PDF](https://arxiv.org/abs/2110.05367)
+102. BBQ: A Hand-Built Bias Benchmark for Question Answering.2021.[PDF](https://arxiv.org/abs/2110.08193)
+103. Don't Speak Too Fast: The Impact of Data Bias on Self-supervised Speech Models.2021.[PDF](https://arxiv.org/abs/2110.07957)
+104. Socially Aware Bias Measurements for Hindi Language Representations.2021.[PDF](https://arxiv.org/abs/2110.07871)
+105. The World of an Octopus: How Reporting Bias Influences a Language Model's Perception of Color.2021.[PDF](https://arxiv.org/abs/2110.08182)
 
 ## Review article
 
