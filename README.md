@@ -138,6 +138,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 103. Don't Speak Too Fast: The Impact of Data Bias on Self-supervised Speech Models.2021.[PDF](https://arxiv.org/abs/2110.07957)
 104. Socially Aware Bias Measurements for Hindi Language Representations.2021.[PDF](https://arxiv.org/abs/2110.07871)
 105. The World of an Octopus: How Reporting Bias Influences a Language Model's Perception of Color.2021.[PDF](https://arxiv.org/abs/2110.08182)
+106. Don't Judge Me by My Face: An Indirect Adversarial Approach to Remove Sensitive Information From Multimodal Neural Representation in Asynchronous Job Video Interviews.2021.[PDF](https://arxiv.org/abs/2110.09424)
+107. The Arabic Parallel Gender Corpus 2.0: Extensions and Analyses.2021.[PDF](https://arxiv.org/abs/2110.09216)
+108. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 
 ## Review article
 
