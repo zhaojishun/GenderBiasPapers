@@ -141,7 +141,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 106. Don't Judge Me by My Face: An Indirect Adversarial Approach to Remove Sensitive Information From Multimodal Neural Representation in Asynchronous Job Video Interviews.2021.[PDF](https://arxiv.org/abs/2110.09424)
 107. The Arabic Parallel Gender Corpus 2.0: Extensions and Analyses.2021.[PDF](https://arxiv.org/abs/2110.09216)
 108. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
-109. AequeVox: Automated Fairness Testing of Speech Recognition Systems.2021.PDF[https://arxiv.org/abs/2110.09843]
+109. AequeVox: Automated Fairness Testing of Speech Recognition Systems.2021.[PDF](https://arxiv.org/abs/2110.09843)
 
 ## Review article
 
