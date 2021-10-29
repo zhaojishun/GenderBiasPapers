@@ -142,6 +142,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 107. The Arabic Parallel Gender Corpus 2.0: Extensions and Analyses.2021.[PDF](https://arxiv.org/abs/2110.09216)
 108. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 109. AequeVox: Automated Fairness Testing of Speech Recognition Systems.2021.[PDF](https://arxiv.org/abs/2110.09843)
+110. Hate Speech Classifiers Learn Human-like Social Stereotypes.2021.[PDF](https://arxiv.org/abs/2110.14839)
 
 ## Review article
 
