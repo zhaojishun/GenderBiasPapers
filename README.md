@@ -333,6 +333,18 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
 2. De-Biased Court’s View Generation with Causality.2020.[PDF](https://www.aclweb.org/anthology/2020.emnlp-main.56)
 
+#### 2021
+1. GFST: Gender-Filtered Self-Training for More Accurate Gender in Translation.
+2. Using Sociolinguistic Variables to Reveal Changing Attitudes Towards Sexuality and Gender.
+3. Harms of Gender Exclusivity and Challenges in Non-Binary Representation in Language Technologies.
+4. Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search.
+5. Identifying Morality Frames in Political Tweets using Relational Learning.
+6. Mitigating Language-Dependent Ethnic Bias in BERT.
+7. How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?
+8. Latent Hatred: A Benchmark for Understanding Implicit Hate Speech.
+9. Inducing Stereotypical Character Roles from Plot Structure
+10. "Be nice to your wife! The restaurants are closed": Can Gender Stereotype Detection Improve Sexism Classification?
+
 ## Comment 
 
 1. Gender Bias and Sexism in Language.Oxford Research Encyclopedia of Communication.2017.[PDF](https://oxfordre.com/communication/view/10.1093/acrefore/9780190228613.001.0001/acrefore-9780190228613-e-470)
