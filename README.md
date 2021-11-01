@@ -143,6 +143,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 108. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 109. AequeVox: Automated Fairness Testing of Speech Recognition Systems.2021.[PDF](https://arxiv.org/abs/2110.09843)
 110. Hate Speech Classifiers Learn Human-like Social Stereotypes.2021.[PDF](https://arxiv.org/abs/2110.14839)
+111. Transformer Ensembles for Sexism Detection.2021.[PDF](https://arxiv.org/abs/2110.15905)
+112. Detecting Gender Bias in Transformer-based Models: A Case Study on BERT.2021.[PDF](https://arxiv.org/abs/2110.15733)
+113. Deep Learning for Bias Detection: From Inception to Deployment.2021.[PDF](https://arxiv.org/abs/2110.15728)
 
 ## Review article
 
