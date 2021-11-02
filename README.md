@@ -146,6 +146,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 111. Transformer Ensembles for Sexism Detection.2021.[PDF](https://arxiv.org/abs/2110.15905)
 112. Detecting Gender Bias in Transformer-based Models: A Case Study on BERT.2021.[PDF](https://arxiv.org/abs/2110.15733)
 113. Deep Learning for Bias Detection: From Inception to Deployment.2021.[PDF](https://arxiv.org/abs/2110.15728)
+114. The Golden Rule as a Heuristic to Measure the Fairness of Texts Using Machine Learning.2021.[PDF](https://arxiv.org/abs/2111.00107)
+115. Measuring a Texts Fairness Dimensions Using Machine Learning Based on Social Psychological Factors.2021.[PDF](https://arxiv.org/abs/2111.00086)
 
 ## Review article
 
