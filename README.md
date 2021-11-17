@@ -149,6 +149,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 114. The Golden Rule as a Heuristic to Measure the Fairness of Texts Using Machine Learning.2021.[PDF](https://arxiv.org/abs/2111.00107)
 115. Measuring a Texts Fairness Dimensions Using Machine Learning Based on Social Psychological Factors.2021.[PDF](https://arxiv.org/abs/2111.00086)
 116. Sexism Identification in Tweets and Gabs using Deep Neural Networks.2021.[PDF](https://arxiv.org/abs/2111.03612)
+117. Words of Wisdom: Representational Harms in Learning From AI Communication.2021.[PDF](https://arxiv.org/abs/2111.08581)
+118. Assessing gender bias in medical and scientific masked language models with StereoSet.2021.[PDF](https://arxiv.org/abs/2111.08088)
+119. Contrastive Clustering: Toward Unsupervised Bias Reduction for Emotion and Sentiment Classification.2021.[PDF](https://arxiv.org/abs/2111.07448)
+120. Annotators with Attitudes: How Annotator Beliefs And Identities Bias Toxic Language Detection.2021.[PDF](https://arxiv.org/abs/2111.07997)
+121. Evaluating Metrics for Bias in Word Embeddings.2021.[PDF](https://arxiv.org/abs/2111.07864)
 
 ## Review article
 
