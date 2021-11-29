@@ -156,6 +156,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 121. Evaluating Metrics for Bias in Word Embeddings.2021.[PDF](https://arxiv.org/abs/2111.07864)
 122. Investigating Cross-Linguistic Gender Bias in Hindi-English Across Domains.2021.[PDF](https://arxiv.org/abs/2111.11159)
 123. The ComMA Dataset V0.2: Annotating Aggression and Bias in Multilingual Social Media Discourse.2021.[PDF](https://arxiv.org/abs/2111.10390)
+124. Identification of Bias Against People with Disabilities in Sentiment Analysis and Toxicity Detection Models.2021.[PDF](https://arxiv.org/abs/2111.13259)
 
 ## Review article
 
