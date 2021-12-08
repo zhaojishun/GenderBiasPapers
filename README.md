@@ -157,6 +157,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 122. Investigating Cross-Linguistic Gender Bias in Hindi-English Across Domains.2021.[PDF](https://arxiv.org/abs/2111.11159)
 123. The ComMA Dataset V0.2: Annotating Aggression and Bias in Multilingual Social Media Discourse.2021.[PDF](https://arxiv.org/abs/2111.10390)
 124. Identification of Bias Against People with Disabilities in Sentiment Analysis and Toxicity Detection Models.2021.[PDF](https://arxiv.org/abs/2111.13259)
+125. raceBERT -- A Transformer-based Model for Predicting Race from Names.2021.[PDF](https://arxiv.org/abs/2112.03807)
+126. Reducing Target Group Bias in Hate Speech Detectors.2021.[PDF](https://arxiv.org/abs/2112.03858)
 
 ## Review article
 
