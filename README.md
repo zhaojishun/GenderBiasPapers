@@ -159,6 +159,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 124. Identification of Bias Against People with Disabilities in Sentiment Analysis and Toxicity Detection Models.2021.[PDF](https://arxiv.org/abs/2111.13259)
 125. raceBERT -- A Transformer-based Model for Predicting Race from Names.2021.[PDF](https://arxiv.org/abs/2112.03807)
 126. Reducing Target Group Bias in Hate Speech Detectors.2021.[PDF](https://arxiv.org/abs/2112.03858)
+127. Ethical and Social Risks of Harm from Language Models.2021.[PDF](https://arxiv.org/abs/2112.04359)
 
 ## Review article
 
