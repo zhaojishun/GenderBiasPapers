@@ -161,6 +161,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 126. Reducing Target Group Bias in Hate Speech Detectors.2021.[PDF](https://arxiv.org/abs/2112.03858)
 127. Ethical and Social Risks of Harm from Language Models.2021.[PDF](https://arxiv.org/abs/2112.04359)
 128. Word Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving.2021.[PDF](https://arxiv.org/abs/2112.05194)
+129. Towards A Reliable Ground-truth For Biased Language Detection.2021.[PDF](https://arxiv.org/abs/2112.07421)
+130. Identification of Biased Terms in News Articles by Comparison of Outlet-specific Word Embeddings.2021.[PDF](https://arxiv.org/abs/2112.07384)
+131. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models.2021.[PDF](https://arxiv.org/abs/2112.07447)
+132. Do You Think It's Biased? How To Ask For The Perception Of Media Bias.2021.[PDF](https://arxiv.org/abs/2112.07392)
 
 ## Review article
 
