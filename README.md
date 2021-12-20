@@ -168,6 +168,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 133. Few-shot Instruction Prompts for Pretrained Language Models to Detect Social Biases.2021.[PDF](https://arxiv.org/abs/2112.07868)
 134. Analyzing the Limits of Self-Supervision in Handling Bias in Language.2021.[PDF](https://arxiv.org/abs/2112.08637)
 135. Gendered Language in Resumes and its Implications for Algorithmic Bias in Hiring.2021.[PDF](https://arxiv.org/abs/2112.08910)
+136. Automatically Identifying Semantic Bias in Crowdsourced Natural Language Inference Datasets.2021.[PDF](https://arxiv.org/abs/2112.09237)
 
 ## Review article
 
