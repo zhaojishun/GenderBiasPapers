@@ -169,6 +169,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 134. Analyzing the Limits of Self-Supervision in Handling Bias in Language.2021.[PDF](https://arxiv.org/abs/2112.08637)
 135. Gendered Language in Resumes and its Implications for Algorithmic Bias in Hiring.2021.[PDF](https://arxiv.org/abs/2112.08910)
 136. Automatically Identifying Semantic Bias in Crowdsourced Natural Language Inference Datasets.2021.[PDF](https://arxiv.org/abs/2112.09237)
+137. Improving Ethical Outcomes with Machine-in-the-Loop: Broadening Human Understanding of Data Annotations.2021.[PDF](https://arxiv.org/abs/2112.09738)
+138. LUC at ComMA-2021 Shared Task: Multilingual Gender Biased and Communal Language Identification without Using Linguistic Features.2021.[PDF](https://arxiv.org/abs/2112.10189)
 
 ## Review article
 
