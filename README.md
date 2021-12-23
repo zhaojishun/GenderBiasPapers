@@ -241,6 +241,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 6. Neural Based Statement Classification for Biased Language.2018.[PDF](https://arxiv.org/pdf/1811.05740.pdf)
 7. Identifying Framing Bias in Online News.2018.[PDF](https://dl.acm.org/doi/pdf/10.1145/3204948)
 8. Unsupervised Discovery of Implicit Gender Bias.2020.EMNLP.[PDF](https://arxiv.org/abs/2004.08361)
+9. CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models.EMNLP 2020.[PDF](https://arxiv.org/abs/2010.00133)
 
 
 ## Model de-bias
