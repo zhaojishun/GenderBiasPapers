@@ -180,6 +180,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 3. Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview.2020.[PDF](https://arxiv.org/abs/1912.11078)
 4. Language (Technology) is Power: A Critical Survey of “Bias” in NLP.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.485/)
 5. Societal Biases in Language Generation: Progress and Challenges.2021.ACL.[PDF](https://arxiv.org/abs/2105.04054)
+6. Measuring Fairness with Biased Rulers: A Survey on Quantifying Biases in Pretrained Language Models.2021.[PDF](https://arxiv.org/abs/2112.07447)
+7. An Empirical Survey of the Effectiveness of Debiasing Techniques for Pre-Trained Language Models.2021.[PDF](https://arxiv.org/abs/2110.08527)
 
 
 ## Bias analysis
