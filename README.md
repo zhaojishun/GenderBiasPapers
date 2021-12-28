@@ -172,6 +172,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 137. Improving Ethical Outcomes with Machine-in-the-Loop: Broadening Human Understanding of Data Annotations.2021.[PDF](https://arxiv.org/abs/2112.09738)
 138. LUC at ComMA-2021 Shared Task: Multilingual Gender Biased and Communal Language Identification without Using Linguistic Features.2021.[PDF](https://arxiv.org/abs/2112.10189)
 139. Quantifying Gender Biases Towards Politicians on Reddit.2021.[PDF](https://arxiv.org/abs/2112.12014)
+140. An Interdisciplinary Approach for the Automated Detection and Visualization of Media Bias in News Articles.2021.[PDF](https://arxiv.org/abs/2112.13352)
 
 ## Review article
 
