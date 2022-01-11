@@ -365,7 +365,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 16. StereoSet: Measuring stereotypical bias in pretrained language models
 17. Privacy at Scale: Introducing the PrivaSeer Corpus of Web Privacy Policies
 18. Intrinsic Bias Metrics Do Not Correlate with Application Bias
-19. Annotating Online Misogyny
+19. [Annotating Online Misogyny](https://aclanthology.org/2021.acl-long.247/)
 
 ### EMNLP
 1. Men Also Like Shopping: Reducing Gender Bias Amplification Using Corpus-level Constraints.2017.[PDF](https://arxiv.org/pdf/1707.09457.pdf)
