@@ -176,6 +176,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 141. Hypers at ComMA@ICON: Modelling Aggressiveness, Gender Bias and Communal Bias Identification.2022.[PDF](https://arxiv.org/abs/2112.15417)
 142. AI & Racial Equity: Understanding Sentiment Analysis Artificial Intelligence, Data Security, and Systemic Theory in Criminal Justice Systems.2022.[PDF](https://arxiv.org/abs/2201.00855)
 143. Quantifying Gender Bias in Consumer Culture.2022.[PDF](https://arxiv.org/abs/2201.03173)
+144. Unintended Bias in Language Model-drivenConversational Recommendation.2022.[PDF](https://arxiv.org/abs/2201.06224)
 
 ## Review article
 
