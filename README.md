@@ -177,6 +177,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 142. AI & Racial Equity: Understanding Sentiment Analysis Artificial Intelligence, Data Security, and Systemic Theory in Criminal Justice Systems.2022.[PDF](https://arxiv.org/abs/2201.00855)
 143. Quantifying Gender Bias in Consumer Culture.2022.[PDF](https://arxiv.org/abs/2201.03173)
 144. Unintended Bias in Language Model-drivenConversational Recommendation.2022.[PDF](https://arxiv.org/abs/2201.06224)
+145. Gender Bias in Text: Labeled Datasets and Lexicons.2022.[PDF](https://arxiv.org/abs/2201.08675)
+146. Regional Negative Bias in Word Embeddings Predicts Racial Animus - But Only via Name Frequency.2022.[PDF](https://arxiv.org/abs/2201.08451)
 
 ## Review article
 
