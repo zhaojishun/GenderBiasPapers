@@ -179,6 +179,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 144. Unintended Bias in Language Model-drivenConversational Recommendation.2022.[PDF](https://arxiv.org/abs/2201.06224)
 145. Gender Bias in Text: Labeled Datasets and Lexicons.2022.[PDF](https://arxiv.org/abs/2201.08675)
 146. Regional Negative Bias in Word Embeddings Predicts Racial Animus - But Only via Name Frequency.2022.[PDF](https://arxiv.org/abs/2201.08451)
+147. Can Model Compression Improve NLP Fairness.2022.[PDF](https://arxiv.org/abs/2201.08542)
 
 ## Review article
 
