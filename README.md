@@ -183,6 +183,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 148. Bias in Automated Speaker Recognition.2022.[PDF](https://arxiv.org/abs/2201.09486)
 149. Modeling Multi-level Context for Informational Bias Detection by Contrastive Learning and Sentential Graph Network.2022.[PDF](https://arxiv.org/abs/2201.10376)
 150. Causal Effect of Racial Bias in Data and Machine Learning Algorithms on User Persuasiveness & Discriminatory Decision Making: An Empirical Study.2022.[PDF](https://arxiv.org/abs/2202.00471)
+151. Gender Stereotypes in the Mediated Personalization of Politics: Empirical Evidence from a Lexical, Syntactic and Sentiment Analysis.2022.[PDF](https://arxiv.org/abs/2202.03083)
 
 ## Review article
 
