@@ -186,6 +186,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 151. Gender Stereotypes in the Mediated Personalization of Politics: Empirical Evidence from a Lexical, Syntactic and Sentiment Analysis.2022.[PDF](https://arxiv.org/abs/2202.03083)
 152. DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-image Generative Transformers.2022.[PDF](https://arxiv.org/abs/2202.04053)
 153. Counterfactual Multi-token Fairness in Text Classification.2022.[PDF](https://arxiv.org/abs/2202.03792)
+154. Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks.2022.[PDF](https://arxiv.org/abs/2202.08011)
 
 ## Review article
 
