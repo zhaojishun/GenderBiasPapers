@@ -187,6 +187,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 152. DALL-Eval: Probing the Reasoning Skills and Social Biases of Text-to-image Generative Transformers.2022.[PDF](https://arxiv.org/abs/2202.04053)
 153. Counterfactual Multi-token Fairness in Text Classification.2022.[PDF](https://arxiv.org/abs/2202.03792)
 154. Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks.2022.[PDF](https://arxiv.org/abs/2202.08011)
+155. Capturing Failures of Large Language Models via Human Cognitive Biases.2022.[PDF](https://arxiv.org/abs/2202.12299)
+156. Exploring the Unfairness of DP-SGD Across Settings.2022.[PDF](https://arxiv.org/abs/2202.12058)
+157. Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender.2022.[PDF](https://arxiv.org/abs/2202.11923)
 
 ## Review article
 
