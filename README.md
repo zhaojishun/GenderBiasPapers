@@ -190,6 +190,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 155. Capturing Failures of Large Language Models via Human Cognitive Biases.2022.[PDF](https://arxiv.org/abs/2202.12299)
 156. Exploring the Unfairness of DP-SGD Across Settings.2022.[PDF](https://arxiv.org/abs/2202.12058)
 157. Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender.2022.[PDF](https://arxiv.org/abs/2202.11923)
+158. Screening Gender Transfer in Neural Machine Translation.2022.[PDF](https://arxiv.org/abs/2202.12568)
+159. Language Technology Practitioners as Language Managers: Arbitrating Data Bias and Predictive Bias in ASR.2022.[PDF](https://arxiv.org/abs/2202.12603)
 
 ## Review article
 
