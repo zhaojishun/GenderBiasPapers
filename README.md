@@ -192,6 +192,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 157. Welcome to the Modern World of Pronouns: Identity-Inclusive Natural Language Processing beyond Gender.2022.[PDF](https://arxiv.org/abs/2202.11923)
 158. Screening Gender Transfer in Neural Machine Translation.2022.[PDF](https://arxiv.org/abs/2202.12568)
 159. Language Technology Practitioners as Language Managers: Arbitrating Data Bias and Predictive Bias in ASR.2022.[PDF](https://arxiv.org/abs/2202.12603)
+160. ArabGend: Gender Analysis and Inference on Arabic Twitter.2022.[PDF](https://arxiv.org/abs/2203.00271)
 
 ## Review article
 
