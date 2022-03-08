@@ -193,6 +193,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 158. Screening Gender Transfer in Neural Machine Translation.2022.[PDF](https://arxiv.org/abs/2202.12568)
 159. Language Technology Practitioners as Language Managers: Arbitrating Data Bias and Predictive Bias in ASR.2022.[PDF](https://arxiv.org/abs/2202.12603)
 160. ArabGend: Gender Analysis and Inference on Arabic Twitter.2022.[PDF](https://arxiv.org/abs/2203.00271)
+161. Fairness for Text Classification Tasks with Identity Information Data Augmentation Methods.2022.[PDF](https://arxiv.org/abs/2203.03541)
 
 ## Review article
 
