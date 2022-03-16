@@ -194,7 +194,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 159. Language Technology Practitioners as Language Managers: Arbitrating Data Bias and Predictive Bias in ASR.2022.[PDF](https://arxiv.org/abs/2202.12603)
 160. ArabGend: Gender Analysis and Inference on Arabic Twitter.2022.[PDF](https://arxiv.org/abs/2203.00271)
 161. Fairness for Text Classification Tasks with Identity Information Data Augmentation Methods.2022.[PDF](https://arxiv.org/abs/2203.03541)
-162. Speciesist Language and Nonhuman Animal Bias in English Masked Language Models.2022[PDF](https://arxiv.org/abs/2203.05140)
+162. Speciesist Language and Nonhuman Animal Bias in English Masked Language Models.2022.[PDF](https://arxiv.org/abs/2203.05140)
+163. Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings.2022.[PDF](https://arxiv.org/abs/2203.07523)
 
 ## Review article
 
