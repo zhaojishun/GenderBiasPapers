@@ -196,6 +196,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 161. Fairness for Text Classification Tasks with Identity Information Data Augmentation Methods.2022.[PDF](https://arxiv.org/abs/2203.03541)
 162. Speciesist Language and Nonhuman Animal Bias in English Masked Language Models.2022.[PDF](https://arxiv.org/abs/2203.05140)
 163. Sense Embeddings are also Biased--Evaluating Social Biases in Static and Contextualised Sense Embeddings.2022.[PDF](https://arxiv.org/abs/2203.07523)
+164. ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2203.09509)
+165. Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching.2022.[PDF](https://arxiv.org/abs/2203.08979)
+166. Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists.2022.[PDF](https://arxiv.org/abs/2203.09192)
 
 ## Review article
 
