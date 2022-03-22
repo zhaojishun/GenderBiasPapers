@@ -199,6 +199,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 164. ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2203.09509)
 165. Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching.2022.[PDF](https://arxiv.org/abs/2203.08979)
 166. Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists.2022.[PDF](https://arxiv.org/abs/2203.09192)
+167. Mitigating Gender Bias in Machine Translation through Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.10675)
 
 ## Review article
 
