@@ -200,6 +200,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 165. Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching.2022.[PDF](https://arxiv.org/abs/2203.08979)
 166. Entropy-based Attention Regularization Frees Unintended Bias Mitigation from Lists.2022.[PDF](https://arxiv.org/abs/2203.09192)
 167. Mitigating Gender Bias in Machine Translation through Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.10675)
+168. A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.11933)
+169. A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation.2022.[PDF](https://arxiv.org/abs/2203.11849)
+170. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective.2022.[PDF](https://arxiv.org/abs/2203.11401)
 
 ## Review article
 
