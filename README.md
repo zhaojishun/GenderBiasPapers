@@ -203,6 +203,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 168. A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning.2022.[PDF](https://arxiv.org/abs/2203.11933)
 169. A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation.2022.[PDF](https://arxiv.org/abs/2203.11849)
 170. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective.2022.[PDF](https://arxiv.org/abs/2203.11401)
+171. Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal.2022.[PDF](https://arxiv.org/abs/2203.12574)
 
 ## Review article
 
