@@ -204,6 +204,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 169. A Girl Has A Name, And It's ... Adversarial Authorship Attribution for Deobfuscation.2022.[PDF](https://arxiv.org/abs/2203.11849)
 170. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective.2022.[PDF](https://arxiv.org/abs/2203.11401)
 171. Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal.2022.[PDF](https://arxiv.org/abs/2203.12574)
+172. Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings.2022.[PDF](https://arxiv.org/abs/2203.13369)
 
 ## Review article
 
