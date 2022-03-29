@@ -205,6 +205,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 170. Suum Cuique: Studying Bias in Taboo Detection with a Community Perspective.2022.[PDF](https://arxiv.org/abs/2203.11401)
 171. Mitigating Gender Bias in Distilled Language Models via Counterfactual Role Reversal.2022.[PDF](https://arxiv.org/abs/2203.12574)
 172. Gender and Racial Stereotype Detection in Legal Opinion Word Embeddings.2022.[PDF](https://arxiv.org/abs/2203.13369)
+173. Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection.2022.[PDF](https://arxiv.org/abs/2203.14349)
+174. bitsa_nlp@LT-EDI-ACL2022: Leveraging Pretrained Language Models for Detecting Homophobia and Transphobia in Social Media Comments.2022.[PDF](https://arxiv.org/abs/2203.14267)
+175. On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations.2022.[PDF](https://arxiv.org/abs/2203.13928)
+176. The SAME Score: Improved Cosine Based Bias Score for Word Embeddings.2022.[PDF](https://arxiv.org/abs/2203.14603)
 
 ## Review article
 
