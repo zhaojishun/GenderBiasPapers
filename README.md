@@ -210,6 +210,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 175. On the Intrinsic and Extrinsic Fairness Evaluation Metrics for Contextualized Language Representations.2022.[PDF](https://arxiv.org/abs/2203.13928)
 176. The SAME Score: Improved Cosine Based Bias Score for Word Embeddings.2022.[PDF](https://arxiv.org/abs/2203.14603)
 177. To Find Waldo You Need Contextual Cues: Debiasing Who's Waldo.2022.[PDF](https://arxiv.org/abs/2203.16682)
+178. Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation.2022.[PDF](https://arxiv.org/abs/2204.01171)
+179. A Study of Gender Impact in Self-supervised Models for Speech-to-Text Systems.2022.[PDF](https://arxiv.org/abs/2204.01397)
 
 ## Review article
 
