@@ -212,6 +212,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 177. To Find Waldo You Need Contextual Cues: Debiasing Who's Waldo.2022.[PDF](https://arxiv.org/abs/2203.16682)
 178. Why Exposure Bias Matters: An Imitation Learning Perspective of Error Accumulation in Language Generation.2022.[PDF](https://arxiv.org/abs/2204.01171)
 179. A Study of Gender Impact in Self-supervised Models for Speech-to-Text Systems.2022.[PDF](https://arxiv.org/abs/2204.01397)
+180. Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic.2022.[PDF](https://arxiv.org/abs/2204.03558)
+181. Korean Online Hate Speech Dataset for Multilabel Classification: How Can Social Science Aid Developing Better Hate Speech Dataset?.2022.[PDF](https://arxiv.org/abs/2204.03262)
 
 ## Review article
 
