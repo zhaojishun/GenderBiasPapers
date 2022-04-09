@@ -367,6 +367,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 7. He said “who’s gonna take care of your children when you are at ACL?”:Reported Sexist Acts are Not Sexist.2020.ACL.[PDF](https://aclanthology.org/2020.acl-main.373.pdf)
 8. BOLD: Dataset and Metrics for Measuring Biases in Open-Ended Language Generation.2021.[PDF](https://arxiv.org/pdf/2101.11718.pdf)
 9. Ruddit: Norms of Offensiveness for English Reddit Comments.ACL 2021.[PDF](https://arxiv.org/abs/2106.05664)
+
 10.Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks.2022.[PDF](https://arxiv.org/abs/2202.08011)
 
 
