@@ -214,6 +214,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 179. A Study of Gender Impact in Self-supervised Models for Speech-to-Text Systems.2022.[PDF](https://arxiv.org/abs/2204.01397)
 180. Mapping the Multilingual Margins: Intersectional Biases of Sentiment Analysis Systems in English, Spanish, and Arabic.2022.[PDF](https://arxiv.org/abs/2204.03558)
 181. Korean Online Hate Speech Dataset for Multilabel Classification: How Can Social Science Aid Developing Better Hate Speech Dataset?.2022.[PDF](https://arxiv.org/abs/2204.03262)
+182. Fair and Argumentative Language Modeling for Computational Argumentation.2022.[PDF](https://arxiv.org/abs/2204.04026)
+183. RubCSG at SemEval-2022 Task 5: Ensemble learning for identifying misogynous MEMEs.2022.[PDF](https://arxiv.org/abs/2204.03953)
 
 ## Review article
 
