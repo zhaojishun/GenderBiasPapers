@@ -216,6 +216,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 181. Korean Online Hate Speech Dataset for Multilabel Classification: How Can Social Science Aid Developing Better Hate Speech Dataset?.2022.[PDF](https://arxiv.org/abs/2204.03262)
 182. Fair and Argumentative Language Modeling for Computational Argumentation.2022.[PDF](https://arxiv.org/abs/2204.04026)
 183. RubCSG at SemEval-2022 Task 5: Ensemble learning for identifying misogynous MEMEs.2022.[PDF](https://arxiv.org/abs/2204.03953)
+184. NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias.2022.[PDF](https://arxiv.org/abs/2204.04902)
 
 ## Review article
 
