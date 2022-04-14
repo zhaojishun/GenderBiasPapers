@@ -219,6 +219,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 184. NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias.2022.[PDF](https://arxiv.org/abs/2204.04902)
 185. Generating Full Length Wikipedia Biographies: The Impact of Gender Bias on the Retrieval-Based Generation of Women Biographies.2022.[PDF](https://arxiv.org/abs/2204.05879)
 186. Easy Adaptation to Mitigate Gender Bias in Multilingual Text Classification.2022.[PDF](https://arxiv.org/abs/2204.05459)
+187. TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes.2022.[PDF](https://arxiv.org/abs/2204.06299)
 
 ## Review article
 
