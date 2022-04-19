@@ -222,6 +222,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 187. TIB-VA at SemEval-2022 Task 5: A Multimodal Architecture for the Detection and Classification of Misogynous Memes.2022.[PDF](https://arxiv.org/abs/2204.06299)
 188. Anti-Asian Hate Speech Detection via Data Augmented Semantic Relation Inference.2022.[PDF](https://arxiv.org/abs/2204.07010)
 189. How Gender Debiasing Affects Internal Model Representations, and Why It Matters.2022.[PDF](https://arxiv.org/abs/2204.06827)
+190. Fairly Accurate: Learning Optimal Accuracy vs. Fairness Tradeoffs for Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2204.07661)
+191. It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection.2022.[PDF](https://arxiv.org/abs/2204.07660)
 
 ## Review article
 
