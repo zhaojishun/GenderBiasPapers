@@ -224,6 +224,10 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 189. How Gender Debiasing Affects Internal Model Representations, and Why It Matters.2022.[PDF](https://arxiv.org/abs/2204.06827)
 190. Fairly Accurate: Learning Optimal Accuracy vs. Fairness Tradeoffs for Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2204.07661)
 191. It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection.2022.[PDF](https://arxiv.org/abs/2204.07660)
+192. Generalizing to the Future: Mitigating Entity Bias in Fake News Detection.2022.[PDF](https://arxiv.org/abs/2204.09484)
+193. Who Is Missing? Characterizing the Participation of Different Demographic Groups in a Korean Nationwide Daily Conversation Corpus.2022.[PDF](https://arxiv.org/abs/2204.09209)
+194. Analyzing Gender Representation in Multilingual Models.2022.[PDF](https://arxiv.org/abs/2204.09168)
+195. A Survey on Bias and Fairness in Natural Language Processing.2022.[PDF](https://arxiv.org/abs/2204.09591)
 
 ## Review article
 
