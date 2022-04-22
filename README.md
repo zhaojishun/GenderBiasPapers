@@ -228,6 +228,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 193. Who Is Missing? Characterizing the Participation of Different Demographic Groups in a Korean Nationwide Daily Conversation Corpus.2022.[PDF](https://arxiv.org/abs/2204.09209)
 194. Analyzing Gender Representation in Multilingual Models.2022.[PDF](https://arxiv.org/abs/2204.09168)
 195. A Survey on Bias and Fairness in Natural Language Processing.2022.[PDF](https://arxiv.org/abs/2204.09591)
+196. Optimize_Prime@DravidianLangTech-ACL2022: Abusive Comment Detection in Tamil.2022.[PDF](https://arxiv.org/abs/2204.09675)
+197. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns.2022.[PDF](https://arxiv.org/abs/2204.10281)
+198. Res-CNN-BiLSTM Network for Overcoming Mental Health Disturbances Caused Due to Cyberbullying through Social Media.2022.[PDF](https://arxiv.org/abs/2204.09738)
 
 ## Review article
 
