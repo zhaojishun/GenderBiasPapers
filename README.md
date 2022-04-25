@@ -231,6 +231,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 196. Optimize_Prime@DravidianLangTech-ACL2022: Abusive Comment Detection in Tamil.2022.[PDF](https://arxiv.org/abs/2204.09675)
 197. How Conservative are Language Models? Adapting to the Introduction of Gender-Neutral Pronouns.2022.[PDF](https://arxiv.org/abs/2204.10281)
 198. Res-CNN-BiLSTM Network for Overcoming Mental Health Disturbances Caused Due to Cyberbullying through Social Media.2022.[PDF](https://arxiv.org/abs/2204.09738)
+199. Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias.2022.[PDF](https://arxiv.org/abs/2204.10365)
 
 ## Review article
 
