@@ -233,6 +233,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 198. Res-CNN-BiLSTM Network for Overcoming Mental Health Disturbances Caused Due to Cyberbullying through Social Media.2022.[PDF](https://arxiv.org/abs/2204.09738)
 199. Towards an Enhanced Understanding of Bias in Pre-trained Neural Language Models: A Survey with Special Emphasis on Affective Bias.2022.[PDF](https://arxiv.org/abs/2204.10365)
 200. AI Personification: Estimating the Personality of Language Models.2022.[PDF](https://arxiv.org/abs/2204.12000)
+201. Learning to Split for Automatic Bias Detection.2022.[PDF](https://arxiv.org/abs/2204.13749)
+202. Handling and Presenting Harmful Text.2022.[PDF](https://arxiv.org/abs/2204.14256)
+203. Investigating Writing Style as a Contributor to Gender Gaps in Science and Technology.2022.[PDF](https://arxiv.org/abs/2204.13805)
 
 ## Review article
 
