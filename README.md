@@ -236,6 +236,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 201. Learning to Split for Automatic Bias Detection.2022.[PDF](https://arxiv.org/abs/2204.13749)
 202. Handling and Presenting Harmful Text.2022.[PDF](https://arxiv.org/abs/2204.14256)
 203. Investigating Writing Style as a Contributor to Gender Gaps in Science and Technology.2022.[PDF](https://arxiv.org/abs/2204.13805)
+204. Debiased Contrastive Learning of Unsupervised Sentence Representations.2022.[PDF](https://arxiv.org/abs/2205.00656)
+205. Gender Bias in Masked Language Models for Multiple Languages.2022.[PDF](https://arxiv.org/abs/2205.00551)
+206. The Implicit Length Bias of Label Smoothing on Beam Search Decoding.2022.[PDF](https://arxiv.org/abs/2205.00659)
+207. Is Your Toxicity My Toxicity? Exploring the Impact of Rater Identity on Toxicity Annotation.2022.[PDF](https://arxiv.org/abs/2205.00501)
+208. Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.2022.[PDF](https://arxiv.org/abs/2205.00415)
 
 ## Review article
 
