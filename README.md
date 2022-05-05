@@ -241,6 +241,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 206. The Implicit Length Bias of Label Smoothing on Beam Search Decoding.2022.[PDF](https://arxiv.org/abs/2205.00659)
 207. Is Your Toxicity My Toxicity? Exploring the Impact of Rater Identity on Toxicity Annotation.2022.[PDF](https://arxiv.org/abs/2205.00501)
 208. Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.2022.[PDF](https://arxiv.org/abs/2205.00415)
+209. User-centric Gender Rewriting.2022.[PDF](https://arxiv.org/abs/2205.02211)
 
 ## Review article
 
