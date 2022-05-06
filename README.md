@@ -242,6 +242,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 207. Is Your Toxicity My Toxicity? Exploring the Impact of Rater Identity on Toxicity Annotation.2022.[PDF](https://arxiv.org/abs/2205.00501)
 208. Don't Blame the Annotator: Bias Already Starts in the Annotation Instructions.2022.[PDF](https://arxiv.org/abs/2205.00415)
 209. User-centric Gender Rewriting.2022.[PDF](https://arxiv.org/abs/2205.02211)
+210. Theories of "Gender" in NLP Bias Research.2022.[PDF](https://arxiv.org/abs/2205.02526)
 
 ## Review article
 
