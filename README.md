@@ -245,6 +245,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 210. Theories of "Gender" in NLP Bias Research.2022.[PDF](https://arxiv.org/abs/2205.02526)
 211. Necessity and Sufficiency for Explaining Text Classifiers: A Case Study in Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2205.03302)
 212. Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2205.04238)
+213. Behind the Mask: Demographic Bias in Name Detection for PII Masking.2022[PDF](https://arxiv.org/abs/2205.04505)
 
 ## Review article
 
