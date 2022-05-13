@@ -247,6 +247,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 212. Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2205.04238)
 213. Behind the Mask: Demographic Bias in Name Detection for PII Masking.2022[PDF](https://arxiv.org/abs/2205.04505)
 214. Fair NLP Models with Differentially Private Text Encoders.2022.[PDF](https://arxiv.org/abs/2205.06135)
+215. Mitigating Gender Stereotypes in Hindi and Marathi.2022.[PDF](https://arxiv.org/abs/2205.05901)
 
 ## Review article
 
