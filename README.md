@@ -251,6 +251,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 216. Twitter-Based Gender Recognition Using Transformers.2022.[PDF](https://arxiv.org/abs/2205.06801)
 217. Using Natural Sentences for Understanding Biases in Language Models.2022.[PDF](https://arxiv.org/abs/2205.06303)
 218. Analyzing Hate Speech Data along Racial, Gender and Intersectional Axes.2022.[PDF](https://arxiv.org/abs/2205.06621)
+219. Bias and Fairness on Multimodal Emotion Detection Algorithms.2022.[PDF](https://arxiv.org/abs/2205.08383)
 
 ## Review article
 
