@@ -253,6 +253,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 218. Analyzing Hate Speech Data along Racial, Gender and Intersectional Axes.2022.[PDF](https://arxiv.org/abs/2205.06621)
 219. Bias and Fairness on Multimodal Emotion Detection Algorithms.2022.[PDF](https://arxiv.org/abs/2205.08383)
 220. Regex in a Time of Deep Learning: The Role of an Old Technology in Age Discrimination Detection in Job Advertisements.2022.[PDF](https://arxiv.org/abs/2205.08813)
+221. "I'm Sorry to Hear That": Finding Bias in Language Models with a Holistic Descriptor Dataset.2022.[PDF](https://arxiv.org/abs/2205.09209)
+222. The Impact of COVID-19 Pandemic on LGBTQ Online Communitie.2022.[PDF](https://arxiv.org/abs/2205.09511)
 
 ## Review article
 
