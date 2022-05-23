@@ -255,6 +255,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 220. Regex in a Time of Deep Learning: The Role of an Old Technology in Age Discrimination Detection in Job Advertisements.2022.[PDF](https://arxiv.org/abs/2205.08813)
 221. "I'm Sorry to Hear That": Finding Bias in Language Models with a Holistic Descriptor Dataset.2022.[PDF](https://arxiv.org/abs/2205.09209)
 222. The Impact of COVID-19 Pandemic on LGBTQ Online Communitie.2022.[PDF](https://arxiv.org/abs/2205.09511)
+223. Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation.2022.[PDF](https://arxiv.org/abs/2205.09830)
+224. Gender Bias in Meta-Embeddings.2022.[PDF](https://arxiv.org/abs/2205.09867)
 
 ## Review article
 
