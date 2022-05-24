@@ -257,6 +257,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 222. The Impact of COVID-19 Pandemic on LGBTQ Online Communitie.2022.[PDF](https://arxiv.org/abs/2205.09511)
 223. Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation.2022.[PDF](https://arxiv.org/abs/2205.09830)
 224. Gender Bias in Meta-Embeddings.2022.[PDF](https://arxiv.org/abs/2205.09867)
+225. How Sensitive Are Translation Systems to Extra Contexts? Mitigating Gender Bias in Neural Machine Translation Models through Relevant Contexts.2022.[PDF](https://arxiv.org/abs/2205.10762)
+226. Markedness in Visual Semantic AI.2022.[PDF](https://arxiv.org/abs/2205.11378)
+227. Conditional Supervised Contrastive Learning for Fair Text Classification.2022.[PDF](https://arxiv.org/abs/2205.11485)
+228. A Domain-adaptive Pre-training Approach for Language Bias Detection in News.2022.[PDF](https://arxiv.org/abs/2205.10773)
+229. Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements.2022.[PDF](https://arxiv.org/abs/2205.11374)
 
 ## Review article
 
