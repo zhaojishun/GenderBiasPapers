@@ -262,6 +262,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 227. Conditional Supervised Contrastive Learning for Fair Text Classification.2022.[PDF](https://arxiv.org/abs/2205.11485)
 228. A Domain-adaptive Pre-training Approach for Language Bias Detection in News.2022.[PDF](https://arxiv.org/abs/2205.10773)
 229. Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements.2022.[PDF](https://arxiv.org/abs/2205.11374)
+230. Challenges in Measuring Bias via Open-ended Language Generation.2022.[PDF](https://arxiv.org/abs/2205.11601)
+231. On Measuring Social Biases in Prompt-Based Multi-Task Learning.2022.[PDF](https://arxiv.org/abs/2205.11605)
 
 ## Review article
 
