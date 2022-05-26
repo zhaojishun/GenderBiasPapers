@@ -264,6 +264,11 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 229. Looking for a Handsome Carpenter! Debiasing GPT-3 Job Advertisements.2022.[PDF](https://arxiv.org/abs/2205.11374)
 230. Challenges in Measuring Bias via Open-ended Language Generation.2022.[PDF](https://arxiv.org/abs/2205.11601)
 231. On Measuring Social Biases in Prompt-Based Multi-Task Learning.2022.[PDF](https://arxiv.org/abs/2205.11605)
+232. Helpfulness and Fairness of Task-Oriented Dialogue Systems.2022.[PDF](https://arxiv.org/abs/2205.12554)
+233. ToKen: Task Decomposition and Knowledge Infusion for Few-Shot Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2205.12495)
+234. Toward Understanding Bias Correlations for Mitigation in NLP.2022.[PDF](https://arxiv.org/abs/2205.12391)
+235. Evaluating Inclusivity, Equity, and Accessibility of NLP Technology: A Case Study for Indian Languages.2022.[PDF](https://arxiv.org/abs/2205.12676)
+236. Perturbation Augmentation for Fairer NLP.2022.[PDF](https://arxiv.org/abs/2205.12586)
 
 ## Review article
 
