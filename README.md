@@ -269,6 +269,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 234. Toward Understanding Bias Correlations for Mitigation in NLP.2022.[PDF](https://arxiv.org/abs/2205.12391)
 235. Evaluating Inclusivity, Equity, and Accessibility of NLP Technology: A Case Study for Indian Languages.2022.[PDF](https://arxiv.org/abs/2205.12676)
 236. Perturbation Augmentation for Fairer NLP.2022.[PDF](https://arxiv.org/abs/2205.12586)
+237. Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks.2022.[PDF](https://arxiv.org/abs/2205.13164)
 
 ## Review article
 
