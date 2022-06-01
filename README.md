@@ -274,6 +274,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 239. UPB at SemEval-2022 Task 5: Enhancing UNITER with Image Sentiment and Graph Convolutional Networks for Multimedia Automatic Misogyny Identification.2022.[PDF](https://arxiv.org/abs/2205.14769)
 240. What are People Talking about in #BackLivesMatter and #StopAsianHate? Exploring and Categorizing Twitter Topics Emerging in Online Social Movements through the Latent Dirichlet Allocation Model.2022.[PDF](https://arxiv.org/abs/2205.14725)
 241. Parameter Efficient Diff Pruning for Bias Mitigation.2022.[PDF](https://arxiv.org/abs/2205.15171)
+242. Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues.2022.[PDF](https://arxiv.org/abs/2205.15951)
 
 ## Review article
 
