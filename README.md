@@ -275,6 +275,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 240. What are People Talking about in #BackLivesMatter and #StopAsianHate? Exploring and Categorizing Twitter Topics Emerging in Online Social Movements through the Latent Dirichlet Allocation Model.2022.[PDF](https://arxiv.org/abs/2205.14725)
 241. Parameter Efficient Diff Pruning for Bias Mitigation.2022.[PDF](https://arxiv.org/abs/2205.15171)
 242. Hollywood Identity Bias Dataset: A Context Oriented Bias Analysis of Movie Dialogues.2022.[PDF](https://arxiv.org/abs/2205.15951)
+243. Assessing Group-level Gender Bias in Professional Evaluations: The Case of Medical Student End-of-Shift Feedback.2022.[PDF](https://arxiv.org/pdf/2206.00234.pdf)
+244. BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts.2022.[PDF](https://arxiv.org/abs/2206.00372)
 
 ## Review article
 
