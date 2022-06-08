@@ -280,6 +280,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 245. Measuring Gender Bias in Word Embeddings of Gendered Languages Requires Disentangling Grammatical Gender Signals.2022.[PDF](https://arxiv.org/abs/2206.01691)
 246. Speech Detection Task Against Asian Hate: BERT the Central, While Data-Centric Studies the Crucial.2022.[PDF](https://arxiv.org/abs/2206.02114)
 247. [Re] Badder Seeds: Reproducing the Evaluation of Lexical Methods for Bias Measurement.2022.[PDF](https://arxiv.org/abs/2206.01767)
+248. Gender Bias in Word Embeddings: A Comprehensive Analysis of Frequency, Syntax, and Semantics.2022.[PDF](https://arxiv.org/abs/2206.03390)
 
 ## Review article
 
