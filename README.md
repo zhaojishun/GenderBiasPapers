@@ -282,6 +282,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 247. [Re] Badder Seeds: Reproducing the Evaluation of Lexical Methods for Bias Measurement.2022.[PDF](https://arxiv.org/abs/2206.01767)
 248. Gender Bias in Word Embeddings: A Comprehensive Analysis of Frequency, Syntax, and Semantics.2022.[PDF](https://arxiv.org/abs/2206.03390)
 249. Challenges in Applying Explainability Methods to Improve the Fairness of NLP Models.2022.[PDF](https://arxiv.org/abs/2206.03945)
+250. Codec at SemEval-2022 Task 5: Multi-modal Multi-transformer Misogynous Meme Classification Framework.2022.[PDF](https://arxiv.org/abs/2206.07190)
 
 ## Review article
 
