@@ -285,6 +285,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 250. Codec at SemEval-2022 Task 5: Multi-modal Multi-transformer Misogynous Meme Classification Framework.2022.[PDF](https://arxiv.org/abs/2206.07190)
 251. Characteristics of Harmful Text: Towards Rigorous Benchmarking of Language Models.2022.[PDF](https://arxiv.org/abs/2206.08325)
 252. Deep Multi-Task Models for Misogyny Identification and Categorization on Arabic Social Media.2022.[PDF](https://arxiv.org/abs/2206.08407)
+253. Fewer Errors, but More Stereotypes? The Effect of Model Size on Gender Bias.2022.[PDF](https://arxiv.org/abs/2206.09860)
 
 ## Review article
 
