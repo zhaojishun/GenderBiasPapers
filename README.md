@@ -286,6 +286,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 251. Characteristics of Harmful Text: Towards Rigorous Benchmarking of Language Models.2022.[PDF](https://arxiv.org/abs/2206.08325)
 252. Deep Multi-Task Models for Misogyny Identification and Categorization on Arabic Social Media.2022.[PDF](https://arxiv.org/abs/2206.08407)
 253. Fewer Errors, but More Stereotypes? The Effect of Model Size on Gender Bias.2022.[PDF](https://arxiv.org/abs/2206.09860)
+254. Don't Forget About Pronouns: Removing Gender Bias in Language Models Without Losing Factual Gender Information.2022.[PDF](https://arxiv.org/abs/2206.10744)
 
 ## Review article
 
