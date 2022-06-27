@@ -289,6 +289,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 254. Don't Forget About Pronouns: Removing Gender Bias in Language Models Without Losing Factual Gender Information.2022.[PDF](https://arxiv.org/abs/2206.10744)
 255. Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models.2022.[PDF](https://arxiv.org/abs/2206.11684)
 256. Towards WinoQueer: Developing a Benchmark for Anti-Queer Bias in Large Language Models.2022.[PDF](https://arxiv.org/abs/2206.11484)
+257. A Disability Lens towards Biases in GPT-3 Generated Open-Ended Languages.2022.[PDF](https://arxiv.org/abs/2206.11993)
 
 ## Review article
 
