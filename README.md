@@ -290,6 +290,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 255. Theory-Grounded Measurement of U.S. Social Stereotypes in English Language Models.2022.[PDF](https://arxiv.org/abs/2206.11684)
 256. Towards WinoQueer: Developing a Benchmark for Anti-Queer Bias in Large Language Models.2022.[PDF](https://arxiv.org/abs/2206.11484)
 257. A Disability Lens towards Biases in GPT-3 Generated Open-Ended Languages.2022.[PDF](https://arxiv.org/abs/2206.11993)
+258. Towards Lexical Gender Inference: A Scalable Methodology using Online Databases.2022.[PDF](https://arxiv.org/abs/2206.14055)
+259. Flexible Text Generation for Counterfactual Fairness Probing.2022.[PDF](https://arxiv.org/abs/2206.13757)
 
 ## Review article
 
