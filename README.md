@@ -295,6 +295,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 260. Gender Biases and Where to Find Them: Exploring Gender Bias in Pre-Trained Transformer-based Language Models Using Movement Pruning.2022.[PDF](https://arxiv.org/abs/2207.02463)
 261. An Approach to Ensure Fairness in News Articles.2022.[PDF](https://arxiv.org/abs/2207.03938)
 262. FairDistillation: Mitigating Stereotyping in Language Models.2022.[PDF](https://arxiv.org/abs/2207.04546)
+263. A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition.2022.[PDF](https://arxiv.org/abs/2207.08104)
 
 ## Review article
 
