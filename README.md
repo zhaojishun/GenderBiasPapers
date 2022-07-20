@@ -296,6 +296,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 261. An Approach to Ensure Fairness in News Articles.2022.[PDF](https://arxiv.org/abs/2207.03938)
 262. FairDistillation: Mitigating Stereotyping in Language Models.2022.[PDF](https://arxiv.org/abs/2207.04546)
 263. A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition.2022.[PDF](https://arxiv.org/abs/2207.08104)
+264. MRCLens: an MRC Dataset Bias Detection Toolkit.2022.[PDF](https://arxiv.org/abs/2207.08943) 
+265. Selection Bias Induced Spurious Correlations in Large Language Models.2022.[PDF](https://arxiv.org/abs/2207.08982)
 
 ## Review article
 
