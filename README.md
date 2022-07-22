@@ -298,6 +298,9 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 263. A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition.2022.[PDF](https://arxiv.org/abs/2207.08104)
 264. MRCLens: an MRC Dataset Bias Detection Toolkit.2022.[PDF](https://arxiv.org/abs/2207.08943) 
 265. Selection Bias Induced Spurious Correlations in Large Language Models.2022.[PDF](https://arxiv.org/abs/2207.08982)
+266. Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.2022.[PDF](https://arxiv.org/abs/2207.10032)
+267. Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?.2022.[PDF](https://arxiv.org/abs/2207.10551)
+268. The Birth of Bias: A Case Study on the Evolution of Gender Bias in an English Language Model.2022.[PDF](https://arxiv.org/abs/2207.10245)
 
 ## Review article
 
