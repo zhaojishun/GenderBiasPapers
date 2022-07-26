@@ -301,6 +301,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 266. Detecting Harmful Online Conversational Content towards LGBTQIA+ Individuals.2022.[PDF](https://arxiv.org/abs/2207.10032)
 267. Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?.2022.[PDF](https://arxiv.org/abs/2207.10551)
 268. The Birth of Bias: A Case Study on the Evolution of Gender Bias in an English Language Model.2022.[PDF](https://arxiv.org/abs/2207.10245)
+269. Toward Fairness in Speech Recognition: Discovery and mitigation of performance disparities.2022.[PDF](https://arxiv.org/abs/2207.11345)
 
 ## Review article
 
