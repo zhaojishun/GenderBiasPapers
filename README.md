@@ -342,6 +342,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 22. Towards Understanding Gender Bias in Neural Relation Extraction.2020.ACL.[PDF](https://www.aclweb.org/anthology/2020.acl-main.265/)
 23. Investigating Potential Factors Associated with Gender Discrimination in Collaborative Recommender Systems.2020.[PDF](https://arxiv.org/abs/2002.07786)
 24. Analyzing Gender Bias within Narrative Tropes.2020.[PDF](https://arxiv.org/pdf/2011.00092.pdf)
+25. On Transferability of Bias Mitigation Effects in Language Model Fine-Tuning. NAACL 2021.[PDF](https://aclanthology.org/2021.naacl-main.296.pdf)
 
 
 ## Bias measurement
@@ -419,6 +420,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 37. Mitigating Political Bias in Language Models Through Reinforced Calibration.2021.AAAI.(Best Paper).[PDF](https://arxiv.org/abs/2104.14795)
 38. Debiasing Pre-trained Contextualised Embeddings.2021.[PDF](https://arxiv.org/abs/2101.09523)
 39. UnQovering Stereotyping Biases via Underspecified Questions.Findings of EMNLP 2020.[PDF](https://arxiv.org/abs/2010.02428)
+40. Contextualizing Hate Speech Classifiers with Post-hoc Explanation. ACL 2020.[PDF](https://aclanthology.org/2020.acl-main.483.pdf)
+41. Learning Adversarially Fair and Transferable Representations. ICML 2018. [PDF](https://arxiv.org/pdf/1802.06309)
 
 
 
