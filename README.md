@@ -305,6 +305,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 270. Bias in (Non)-Contextual Clinical Word Embeddings.2022.[PDF](https://arxiv.org/abs/2208.01341)
 271. On the Limitations of Sociodemographic Adaptation with Transformers.2022.[PDF](https://arxiv.org/abs/2208.01029)
 272. Generative Bias for Visual Question Answering.2022.[PDF](https://arxiv.org/abs/2208.00690)
+273. Exploring Gender Bias in Retrieval Models.2022.[PDF](https://arxiv.org/abs/2208.01755)
 
 ## Review article
 
