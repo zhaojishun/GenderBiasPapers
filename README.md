@@ -30,7 +30,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 1. [Proceedings of the 1st Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/W19-38.pdf)
 2. [Proceedings of the 2nd Workshop on Gender Bias in Natural Language Processing](https://www.aclweb.org/anthology/volumes/2020.gebnlp-1/)
 3. [Proceedings of the 3rd Workshop on Gender Bias in Natural Language Processing](https://aclanthology.org/volumes/2021.gebnlp-1/)
-4. [Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing](https://aclanthology.org/volumes/2022.gebnlp-1/))
+4. [Proceedings of the 4th Workshop on Gender Bias in Natural Language Processing](https://aclanthology.org/volumes/2022.gebnlp-1/)
 
 ## ArXiv's latest related papers
 
