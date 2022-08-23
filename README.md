@@ -306,6 +306,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 271. On the Limitations of Sociodemographic Adaptation with Transformers.2022.[PDF](https://arxiv.org/abs/2208.01029)
 272. Generative Bias for Visual Question Answering.2022.[PDF](https://arxiv.org/abs/2208.00690)
 273. Exploring Gender Bias in Retrieval Models.2022.[PDF](https://arxiv.org/abs/2208.01755)
+274. Gender Bias and Universal Substitution Adversarial Attacks on Grammatical Error Correction Systems for Automated Assessment.2022.[PDF](https://arxiv.org/abs/2208.09466)
+275. Selection Collider Bias in Large Language Models.2022.[PDF](https://arxiv.org/abs/2208.10063)
 
 ## Review article
 
