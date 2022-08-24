@@ -309,6 +309,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 273. Exploring Gender Bias in Retrieval Models.2022.[PDF](https://arxiv.org/abs/2208.01755)
 274. Gender Bias and Universal Substitution Adversarial Attacks on Grammatical Error Correction Systems for Automated Assessment.2022.[PDF](https://arxiv.org/abs/2208.09466)
 275. Selection Collider Bias in Large Language Models.2022.[PDF](https://arxiv.org/abs/2208.10063)
+276. Don't Take it Personally: Analyzing Gender and Age Differences in Ratings of Online Humor.2022.[PDF](https://arxiv.org/abs/2208.10898)
 
 ## Review article
 
