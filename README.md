@@ -312,6 +312,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 276. Don't Take it Personally: Analyzing Gender and Age Differences in Ratings of Online Humor.2022.[PDF](https://arxiv.org/abs/2208.10898)
 277. Evolving Label Usage within Generation Z when Self-Describing Sexual Orientation.2022.[PDF](https://arxiv.org/abs/2208.13833)
 278. Debiasing Word Embeddings with Nonlinear Geometry.2022.[PDF](https://arxiv.org/abs/2208.13899)
+279. Decoding Demographic Un-fairness from Indian Names.2022.[PDF](https://arxiv.org/abs/2209.03089)
 
 ## Review article
 
