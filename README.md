@@ -313,6 +313,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 277. Evolving Label Usage within Generation Z when Self-Describing Sexual Orientation.2022.[PDF](https://arxiv.org/abs/2208.13833)
 278. Debiasing Word Embeddings with Nonlinear Geometry.2022.[PDF](https://arxiv.org/abs/2208.13899)
 279. Decoding Demographic Un-fairness from Indian Names.2022.[PDF](https://arxiv.org/abs/2209.03089)
+280. Measuring Geographic Performance Disparities of Offensive Language Classifiers.2022.[PDF](https://arxiv.org/abs/2209.07353)
+281. UBARv2: Towards Mitigating Exposure Bias in Task-Oriented Dialogs.2022.[PDF](https://arxiv.org/abs/2209.07239)
 
 ## Review article
 
