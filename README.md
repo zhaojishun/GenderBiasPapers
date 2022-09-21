@@ -317,6 +317,7 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 281. UBARv2: Towards Mitigating Exposure Bias in Task-Oriented Dialogs.2022.[PDF](https://arxiv.org/abs/2209.07239)
 282. APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations.2022.[PDF](https://arxiv.org/abs/2209.08207)
 283. Quantifying How Hateful Communities Radicalize Online Users.2022.[PDF](https://arxiv.org/abs/2209.08697)
+284. Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning.2022.[PDF](https://arxiv.org/abs/2209.09803)
 
 ## Review article
 
