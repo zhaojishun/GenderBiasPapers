@@ -318,6 +318,8 @@ In this repo, we list some related work on gender bias. Corrections and suggesti
 282. APPDIA: A Discourse-aware Transformer-based Style Transfer Model for Offensive Social Media Conversations.2022.[PDF](https://arxiv.org/abs/2209.08207)
 283. Quantifying How Hateful Communities Radicalize Online Users.2022.[PDF](https://arxiv.org/abs/2209.08697)
 284. Spillover of Antisocial Behavior from Fringe Platforms: The Unintended Consequences of Community Banning.2022.[PDF](https://arxiv.org/abs/2209.09803)
+285. Power of Explanations: Towards Automatic Debiasing in Hate Speech Detection.2022.[PDF](https://arxiv.org/abs/2209.09975)
+286. Bias at a Second Glance: A Deep Dive into Bias for German Educational Peer-Review Data Modeling.2022.[PDF](https://arxiv.org/abs/2209.10335)
 
 ## Review article
 
